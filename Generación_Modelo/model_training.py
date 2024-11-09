@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 
 # 1. Leer el archivo CSV 'MarathonData.csv'
-df = pd.read_csv('./MarathonData.csv')
+df = pd.read_csv('./Datos_Maraton/MarathonData.csv')
 
 # 2. Preprocesamiento de Datos
 
@@ -89,5 +89,9 @@ print("\nLos resultados de la predicción han sido guardados en 'resultados_pred
 import joblib
 
 # Guardar el modelo en un archivo llamado 'modelo_entrenado.pkl'
-joblib.dump(modelo, './modelo_entrenado.pkl')
+joblib.dump(modelo, './Generación_Modelo/modelo_entrenado.pkl')
+print("\nEl modelo entrenado ha sido guardado en 'modelo_entrenado.pkl'.")
+
+# Guardar el modelo en un archivo llamado 'modelo_entrenado.pkl'
+joblib.dump(modelo, './Contenedor/modelo_entrenado.pkl')
 print("\nEl modelo entrenado ha sido guardado en 'modelo_entrenado.pkl'.")
