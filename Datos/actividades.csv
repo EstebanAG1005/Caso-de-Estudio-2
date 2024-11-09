@@ -1,0 +1,1494 @@
+﻿id,atleta_id,tipo_actividad,duracion_minutos,distancia_km,fecha
+1,1,Correr al aire libre,108,10.73,2024-11-21
+2,1,Intervalos de velocidad,60,8.8,2024-11-14
+3,1,Caminadora,79,10.84,2024-12-30
+4,1,Caminadora,56,5.13,2024-12-15
+5,1,Entrenamiento de resistencia,37,4.28,2024-12-16
+6,1,Entrenamiento de resistencia,55,5.71,2024-11-20
+7,1,Intervalos de velocidad,108,11.01,2024-12-28
+8,1,Correr al aire libre,85,9.34,2024-12-29
+9,1,Correr al aire libre,47,4.53,2024-11-10
+10,1,Correr al aire libre,119,10.02,2024-11-19
+11,1,Entrenamiento de resistencia,116,11.97,2024-12-28
+12,1,Entrenamiento de resistencia,97,14.32,2024-11-28
+13,1,Entrenamiento de resistencia,100,9.31,2024-11-23
+14,1,Intervalos de velocidad,75,8.37,2024-12-06
+15,1,Intervalos de velocidad,96,10.42,2024-11-14
+16,1,Intervalos de velocidad,62,6.3,2024-12-12
+17,1,Correr al aire libre,118,15.89,2025-01-02
+18,1,Intervalos de velocidad,112,8.99,2024-12-29
+19,1,Correr al aire libre,101,8.31,2024-11-14
+20,1,Intervalos de velocidad,116,12.65,2024-12-30
+21,1,Entrenamiento de resistencia,117,14.33,2024-12-25
+22,1,Entrenamiento de resistencia,74,10.0,2024-11-21
+23,1,Caminadora,106,10.49,2024-11-17
+24,1,Caminadora,40,4.92,2025-01-03
+25,1,Caminadora,58,5.77,2024-12-01
+26,1,Caminadora,109,11.07,2024-12-02
+27,1,Correr al aire libre,68,10.0,2024-11-29
+28,1,Intervalos de velocidad,52,7.42,2024-12-31
+29,1,Correr al aire libre,98,8.25,2025-01-02
+30,1,Intervalos de velocidad,55,5.84,2025-01-02
+31,1,Caminadora,57,7.13,2024-11-18
+32,1,Caminadora,98,8.98,2024-12-02
+33,1,Caminadora,77,9.82,2024-12-22
+34,1,Intervalos de velocidad,81,8.14,2025-01-01
+35,1,Caminadora,94,8.64,2024-12-10
+36,1,Entrenamiento de resistencia,112,16.07,2024-12-22
+37,1,Caminadora,89,9.54,2024-12-19
+38,1,Caminadora,63,6.38,2025-01-06
+39,2,Correr al aire libre,88,11.54,2024-12-21
+40,2,Correr al aire libre,94,10.59,2024-12-16
+41,2,Caminadora,105,8.85,2024-12-24
+42,2,Correr al aire libre,96,13.81,2025-01-04
+43,2,Entrenamiento de resistencia,80,8.83,2024-12-18
+44,2,Caminadora,71,6.39,2024-12-30
+45,2,Entrenamiento de resistencia,65,6.49,2024-12-28
+46,2,Caminadora,116,14.05,2024-11-26
+47,2,Caminadora,119,16.77,2025-01-06
+48,2,Intervalos de velocidad,103,9.09,2024-12-21
+49,2,Intervalos de velocidad,36,4.98,2024-11-26
+50,2,Entrenamiento de resistencia,36,3.61,2024-11-19
+51,2,Correr al aire libre,113,16.37,2024-12-31
+52,2,Intervalos de velocidad,82,11.51,2024-12-20
+53,2,Correr al aire libre,96,12.09,2024-11-28
+54,2,Caminadora,70,5.98,2024-11-15
+55,2,Intervalos de velocidad,81,7.22,2024-12-20
+56,2,Caminadora,92,9.76,2024-12-26
+57,2,Entrenamiento de resistencia,102,8.47,2025-01-07
+58,2,Correr al aire libre,118,13.95,2024-12-03
+59,2,Entrenamiento de resistencia,38,4.12,2024-12-23
+60,2,Correr al aire libre,39,4.68,2024-12-11
+61,2,Entrenamiento de resistencia,93,13.14,2024-11-28
+62,2,Entrenamiento de resistencia,93,12.65,2024-12-02
+63,2,Entrenamiento de resistencia,91,9.67,2024-12-15
+64,2,Intervalos de velocidad,40,4.86,2024-11-09
+65,2,Correr al aire libre,96,8.64,2024-12-19
+66,2,Entrenamiento de resistencia,51,6.68,2024-12-23
+67,2,Correr al aire libre,43,5.3,2025-01-04
+68,2,Caminadora,101,9.63,2024-12-14
+69,3,Correr al aire libre,61,5.2,2024-11-18
+70,3,Correr al aire libre,104,14.25,2024-11-12
+71,3,Correr al aire libre,83,11.92,2024-12-17
+72,3,Correr al aire libre,110,10.02,2024-11-17
+73,3,Entrenamiento de resistencia,97,13.19,2024-12-22
+74,3,Caminadora,73,7.71,2024-12-25
+75,3,Intervalos de velocidad,53,6.48,2024-11-24
+76,3,Correr al aire libre,96,14.18,2024-11-10
+77,3,Intervalos de velocidad,99,11.81,2024-11-30
+78,3,Caminadora,79,7.38,2024-11-24
+79,3,Caminadora,74,7.31,2025-01-03
+80,3,Correr al aire libre,112,15.16,2024-11-27
+81,3,Intervalos de velocidad,62,7.66,2024-12-27
+82,3,Entrenamiento de resistencia,37,3.97,2024-12-11
+83,3,Intervalos de velocidad,117,15.36,2024-11-28
+84,3,Caminadora,60,8.03,2024-11-14
+85,3,Intervalos de velocidad,107,12.14,2024-12-18
+86,3,Caminadora,88,12.35,2024-12-03
+87,3,Entrenamiento de resistencia,69,6.13,2024-11-14
+88,3,Intervalos de velocidad,31,4.3,2025-01-05
+89,3,Correr al aire libre,74,8.87,2024-12-05
+90,3,Entrenamiento de resistencia,64,7.9,2024-11-22
+91,4,Entrenamiento de resistencia,96,8.89,2025-01-01
+92,4,Correr al aire libre,111,15.23,2024-11-23
+93,4,Correr al aire libre,67,8.64,2024-12-08
+94,4,Correr al aire libre,37,4.58,2024-11-10
+95,4,Caminadora,56,5.7,2024-12-05
+96,4,Caminadora,51,4.69,2024-11-28
+97,4,Intervalos de velocidad,62,6.46,2024-12-01
+98,4,Caminadora,100,9.75,2024-11-23
+99,4,Entrenamiento de resistencia,110,11.15,2024-11-09
+100,4,Intervalos de velocidad,77,7.05,2024-11-21
+101,4,Caminadora,103,10.61,2024-12-20
+102,4,Entrenamiento de resistencia,93,8.55,2024-11-24
+103,4,Correr al aire libre,36,3.17,2024-12-31
+104,4,Entrenamiento de resistencia,98,11.61,2024-11-11
+105,4,Caminadora,119,14.87,2024-11-13
+106,4,Caminadora,31,3.23,2024-12-06
+107,4,Correr al aire libre,120,16.32,2024-11-27
+108,4,Intervalos de velocidad,91,8.6,2024-11-25
+109,4,Correr al aire libre,70,8.38,2024-11-17
+110,4,Caminadora,103,13.64,2024-12-11
+111,4,Caminadora,81,9.4,2024-12-18
+112,4,Correr al aire libre,59,6.13,2025-01-07
+113,4,Entrenamiento de resistencia,102,12.47,2024-12-27
+114,4,Caminadora,61,5.12,2024-11-13
+115,4,Intervalos de velocidad,112,11.86,2024-12-25
+116,4,Caminadora,63,8.6,2024-12-09
+117,4,Correr al aire libre,46,4.52,2024-12-17
+118,4,Intervalos de velocidad,118,13.5,2024-12-08
+119,4,Entrenamiento de resistencia,45,6.52,2024-11-13
+120,4,Caminadora,42,4.34,2024-11-26
+121,4,Caminadora,57,7.37,2024-12-10
+122,4,Correr al aire libre,103,9.92,2024-12-11
+123,4,Correr al aire libre,119,9.6,2024-11-23
+124,4,Correr al aire libre,36,5.13,2024-12-04
+125,4,Intervalos de velocidad,110,12.71,2024-12-23
+126,4,Correr al aire libre,65,7.21,2024-11-24
+127,4,Correr al aire libre,69,7.1,2024-12-24
+128,4,Intervalos de velocidad,34,4.18,2024-12-26
+129,4,Caminadora,47,6.1,2025-01-02
+130,4,Intervalos de velocidad,61,8.57,2024-11-13
+131,5,Caminadora,71,8.55,2024-11-29
+132,5,Correr al aire libre,119,11.83,2024-12-21
+133,5,Correr al aire libre,113,13.23,2024-12-14
+134,5,Correr al aire libre,78,9.91,2024-11-24
+135,5,Caminadora,88,10.03,2024-11-14
+136,5,Correr al aire libre,98,11.99,2024-12-19
+137,5,Correr al aire libre,55,6.67,2024-12-07
+138,5,Entrenamiento de resistencia,103,12.16,2024-12-11
+139,5,Correr al aire libre,52,5.26,2024-12-30
+140,5,Intervalos de velocidad,96,8.38,2025-01-05
+141,5,Caminadora,112,12.45,2024-11-27
+142,5,Entrenamiento de resistencia,62,6.59,2024-12-10
+143,5,Intervalos de velocidad,94,7.69,2024-12-20
+144,5,Correr al aire libre,105,11.64,2024-11-30
+145,5,Caminadora,115,15.43,2024-11-27
+146,5,Correr al aire libre,98,12.64,2024-11-23
+147,5,Caminadora,75,6.1,2025-01-02
+148,5,Caminadora,89,10.59,2024-11-15
+149,5,Entrenamiento de resistencia,38,4.39,2024-11-28
+150,5,Entrenamiento de resistencia,79,6.72,2024-12-03
+151,5,Caminadora,88,8.16,2024-12-12
+152,5,Caminadora,82,7.69,2024-12-05
+153,5,Correr al aire libre,81,8.81,2024-12-25
+154,5,Entrenamiento de resistencia,31,3.83,2024-12-15
+155,5,Entrenamiento de resistencia,54,7.56,2024-12-09
+156,5,Caminadora,41,4.63,2024-11-19
+157,5,Correr al aire libre,116,14.06,2024-12-29
+158,5,Caminadora,48,6.31,2024-12-16
+159,5,Correr al aire libre,80,10.06,2024-12-09
+160,5,Caminadora,36,3.45,2024-12-24
+161,5,Intervalos de velocidad,71,10.31,2024-12-21
+162,5,Correr al aire libre,43,3.59,2024-11-09
+163,5,Intervalos de velocidad,120,14.9,2024-12-14
+164,5,Caminadora,67,9.04,2024-12-06
+165,5,Caminadora,109,10.04,2024-12-07
+166,5,Caminadora,80,9.09,2024-11-10
+167,5,Caminadora,118,11.74,2025-01-06
+168,6,Caminadora,63,6.04,2024-11-13
+169,6,Caminadora,55,5.56,2024-11-15
+170,6,Caminadora,69,7.33,2025-01-06
+171,6,Intervalos de velocidad,87,7.27,2024-11-18
+172,6,Intervalos de velocidad,50,6.17,2024-11-22
+173,6,Intervalos de velocidad,103,15.11,2024-12-20
+174,6,Caminadora,112,10.74,2024-12-05
+175,6,Correr al aire libre,98,8.32,2025-01-01
+176,6,Correr al aire libre,64,8.68,2025-01-04
+177,6,Caminadora,83,8.61,2024-12-30
+178,6,Caminadora,100,10.75,2024-12-24
+179,6,Correr al aire libre,54,5.03,2024-12-20
+180,6,Entrenamiento de resistencia,102,10.66,2024-12-12
+181,6,Caminadora,44,5.05,2024-11-24
+182,6,Correr al aire libre,40,3.85,2024-12-04
+183,6,Intervalos de velocidad,88,11.29,2025-01-07
+184,6,Intervalos de velocidad,98,7.89,2024-11-11
+185,6,Entrenamiento de resistencia,41,3.33,2024-12-10
+186,6,Caminadora,99,9.93,2024-11-10
+187,6,Correr al aire libre,66,8.57,2024-12-21
+188,6,Caminadora,35,4.01,2024-12-24
+189,6,Correr al aire libre,111,15.92,2024-12-25
+190,6,Intervalos de velocidad,57,7.71,2024-12-17
+191,6,Entrenamiento de resistencia,63,8.95,2024-12-04
+192,6,Caminadora,101,12.4,2024-12-13
+193,6,Correr al aire libre,110,11.33,2024-11-29
+194,6,Intervalos de velocidad,55,7.82,2025-01-06
+195,6,Intervalos de velocidad,48,3.87,2024-12-07
+196,6,Correr al aire libre,30,3.3,2024-11-29
+197,6,Caminadora,111,15.09,2024-11-19
+198,6,Caminadora,105,8.87,2024-12-01
+199,6,Correr al aire libre,62,5.29,2024-11-16
+200,6,Correr al aire libre,44,5.25,2024-12-03
+201,6,Correr al aire libre,96,13.34,2024-12-26
+202,6,Correr al aire libre,32,3.2,2024-11-24
+203,6,Correr al aire libre,115,15.34,2024-11-22
+204,6,Intervalos de velocidad,42,4.18,2024-11-11
+205,6,Caminadora,51,5.54,2024-12-01
+206,7,Entrenamiento de resistencia,108,15.83,2024-12-15
+207,7,Correr al aire libre,77,6.7,2024-11-12
+208,7,Intervalos de velocidad,83,9.47,2024-11-14
+209,7,Entrenamiento de resistencia,120,13.12,2024-12-23
+210,7,Entrenamiento de resistencia,36,3.89,2025-01-06
+211,7,Caminadora,38,4.61,2024-12-28
+212,7,Intervalos de velocidad,51,5.14,2024-11-18
+213,7,Entrenamiento de resistencia,94,10.72,2024-12-21
+214,7,Entrenamiento de resistencia,39,3.79,2024-12-07
+215,7,Correr al aire libre,101,8.11,2024-11-19
+216,7,Entrenamiento de resistencia,64,5.18,2024-11-25
+217,7,Caminadora,45,6.7,2024-11-21
+218,7,Intervalos de velocidad,84,7.03,2024-12-12
+219,7,Correr al aire libre,120,15.58,2024-11-29
+220,7,Entrenamiento de resistencia,79,9.75,2024-12-21
+221,7,Caminadora,102,9.59,2024-12-24
+222,7,Intervalos de velocidad,31,3.31,2024-12-10
+223,7,Correr al aire libre,30,3.36,2024-12-29
+224,7,Correr al aire libre,62,7.73,2024-12-25
+225,7,Entrenamiento de resistencia,116,16.47,2024-12-20
+226,7,Correr al aire libre,30,4.03,2024-12-30
+227,8,Correr al aire libre,107,10.71,2024-11-09
+228,8,Caminadora,118,13.19,2024-12-29
+229,8,Entrenamiento de resistencia,33,4.1,2024-12-06
+230,8,Caminadora,112,10.63,2024-12-31
+231,8,Intervalos de velocidad,75,8.25,2025-01-07
+232,8,Entrenamiento de resistencia,39,3.59,2024-11-26
+233,8,Caminadora,49,5.35,2024-12-22
+234,8,Caminadora,83,8.24,2024-12-09
+235,8,Intervalos de velocidad,35,5.14,2025-01-05
+236,8,Correr al aire libre,80,11.85,2025-01-07
+237,8,Entrenamiento de resistencia,64,6.0,2024-12-06
+238,8,Intervalos de velocidad,31,3.45,2024-12-26
+239,8,Entrenamiento de resistencia,43,4.76,2024-12-25
+240,8,Caminadora,89,9.33,2024-11-20
+241,8,Intervalos de velocidad,111,9.24,2024-11-16
+242,8,Intervalos de velocidad,62,7.11,2024-11-29
+243,8,Intervalos de velocidad,70,6.29,2024-11-09
+244,8,Intervalos de velocidad,73,10.07,2024-12-23
+245,8,Entrenamiento de resistencia,72,10.51,2024-11-16
+246,8,Caminadora,77,7.71,2024-12-15
+247,8,Entrenamiento de resistencia,56,6.1,2024-12-09
+248,8,Entrenamiento de resistencia,51,5.85,2024-11-23
+249,8,Intervalos de velocidad,58,8.08,2025-01-02
+250,8,Correr al aire libre,111,11.22,2024-11-28
+251,8,Entrenamiento de resistencia,68,7.58,2024-12-13
+252,8,Correr al aire libre,57,5.95,2024-11-20
+253,8,Correr al aire libre,56,6.34,2024-11-10
+254,9,Entrenamiento de resistencia,40,4.64,2024-11-29
+255,9,Entrenamiento de resistencia,56,6.67,2024-12-02
+256,9,Intervalos de velocidad,120,12.01,2024-12-03
+257,9,Entrenamiento de resistencia,119,14.02,2024-12-30
+258,9,Caminadora,91,9.77,2024-11-20
+259,9,Entrenamiento de resistencia,71,9.13,2024-11-12
+260,9,Caminadora,54,5.84,2024-11-25
+261,9,Correr al aire libre,56,4.94,2024-12-11
+262,9,Intervalos de velocidad,114,16.08,2024-11-16
+263,9,Intervalos de velocidad,30,4.48,2024-11-17
+264,9,Correr al aire libre,112,15.13,2024-12-02
+265,9,Intervalos de velocidad,78,9.82,2024-12-08
+266,9,Caminadora,93,10.13,2024-12-23
+267,9,Intervalos de velocidad,40,3.76,2024-11-29
+268,9,Intervalos de velocidad,71,6.42,2024-11-26
+269,9,Caminadora,39,3.93,2025-01-07
+270,9,Intervalos de velocidad,55,5.96,2024-11-15
+271,9,Entrenamiento de resistencia,31,3.66,2024-12-04
+272,9,Caminadora,75,11.09,2025-01-07
+273,9,Correr al aire libre,115,11.17,2024-12-07
+274,9,Entrenamiento de resistencia,84,11.82,2024-11-13
+275,9,Correr al aire libre,115,12.97,2024-11-30
+276,9,Correr al aire libre,86,7.15,2024-12-28
+277,9,Correr al aire libre,42,4.64,2024-12-11
+278,9,Caminadora,31,2.67,2024-11-23
+279,9,Intervalos de velocidad,34,4.03,2024-11-27
+280,9,Caminadora,67,9.05,2024-12-07
+281,9,Entrenamiento de resistencia,99,12.16,2024-11-15
+282,9,Caminadora,109,11.92,2024-12-06
+283,9,Entrenamiento de resistencia,30,3.89,2024-12-26
+284,9,Caminadora,30,3.16,2024-11-20
+285,9,Entrenamiento de resistencia,117,16.8,2024-12-06
+286,9,Correr al aire libre,76,6.81,2024-12-28
+287,10,Entrenamiento de resistencia,91,12.33,2024-12-25
+288,10,Correr al aire libre,93,8.66,2024-11-23
+289,10,Entrenamiento de resistencia,116,15.1,2024-12-25
+290,10,Intervalos de velocidad,38,3.64,2024-12-06
+291,10,Entrenamiento de resistencia,34,5.0,2024-12-08
+292,10,Entrenamiento de resistencia,120,14.27,2024-12-01
+293,10,Caminadora,64,7.09,2024-11-29
+294,10,Entrenamiento de resistencia,95,12.73,2024-12-25
+295,10,Entrenamiento de resistencia,93,12.81,2024-11-18
+296,10,Caminadora,63,8.06,2024-11-14
+297,10,Intervalos de velocidad,102,12.98,2024-12-25
+298,10,Intervalos de velocidad,102,13.03,2024-12-06
+299,10,Correr al aire libre,77,9.94,2024-12-21
+300,10,Entrenamiento de resistencia,39,3.57,2024-11-20
+301,10,Intervalos de velocidad,116,10.81,2024-11-08
+302,10,Caminadora,35,3.33,2024-11-12
+303,10,Caminadora,55,5.87,2024-12-17
+304,10,Caminadora,45,5.81,2024-11-12
+305,10,Entrenamiento de resistencia,30,3.33,2024-11-17
+306,10,Entrenamiento de resistencia,105,12.58,2024-11-19
+307,10,Entrenamiento de resistencia,73,10.1,2024-11-11
+308,10,Correr al aire libre,48,6.36,2024-11-14
+309,11,Intervalos de velocidad,46,5.51,2024-11-17
+310,11,Correr al aire libre,97,11.12,2024-12-29
+311,11,Caminadora,98,13.9,2024-12-13
+312,11,Correr al aire libre,92,10.11,2024-11-25
+313,11,Caminadora,48,4.32,2024-11-27
+314,11,Entrenamiento de resistencia,58,7.66,2024-11-29
+315,11,Entrenamiento de resistencia,90,12.25,2024-11-14
+316,11,Intervalos de velocidad,51,7.3,2024-11-12
+317,11,Entrenamiento de resistencia,65,8.9,2024-12-18
+318,11,Caminadora,108,13.69,2025-01-04
+319,11,Correr al aire libre,120,16.77,2024-11-25
+320,11,Correr al aire libre,31,4.62,2024-12-23
+321,11,Entrenamiento de resistencia,69,9.38,2025-01-06
+322,11,Correr al aire libre,60,5.87,2024-12-24
+323,11,Intervalos de velocidad,56,4.6,2024-12-09
+324,11,Intervalos de velocidad,63,7.16,2024-11-30
+325,11,Caminadora,88,12.9,2024-12-30
+326,11,Caminadora,112,12.76,2024-12-04
+327,11,Intervalos de velocidad,38,4.34,2024-11-16
+328,11,Correr al aire libre,86,6.92,2024-12-11
+329,11,Intervalos de velocidad,109,9.37,2024-12-03
+330,11,Intervalos de velocidad,50,6.7,2024-12-11
+331,11,Intervalos de velocidad,78,7.28,2024-12-15
+332,11,Entrenamiento de resistencia,84,9.3,2024-12-26
+333,11,Intervalos de velocidad,104,12.82,2024-12-21
+334,11,Caminadora,110,9.55,2024-11-18
+335,11,Correr al aire libre,67,9.38,2024-12-03
+336,11,Entrenamiento de resistencia,100,11.57,2024-11-26
+337,12,Caminadora,77,10.4,2025-01-04
+338,12,Entrenamiento de resistencia,35,3.32,2024-11-15
+339,12,Caminadora,111,16.55,2025-01-03
+340,12,Caminadora,90,12.02,2024-11-28
+341,12,Entrenamiento de resistencia,85,9.3,2025-01-07
+342,12,Caminadora,41,5.04,2024-12-14
+343,12,Intervalos de velocidad,60,6.43,2024-12-03
+344,12,Caminadora,119,11.9,2024-11-08
+345,12,Intervalos de velocidad,37,5.04,2024-12-10
+346,12,Caminadora,114,15.93,2024-12-15
+347,12,Correr al aire libre,76,10.91,2024-11-11
+348,12,Intervalos de velocidad,79,8.94,2024-11-09
+349,12,Caminadora,98,11.1,2024-12-03
+350,12,Correr al aire libre,45,6.14,2024-12-20
+351,12,Intervalos de velocidad,114,11.53,2024-12-17
+352,12,Correr al aire libre,109,9.24,2024-11-10
+353,12,Correr al aire libre,80,11.74,2024-12-13
+354,12,Caminadora,41,5.36,2024-12-03
+355,12,Entrenamiento de resistencia,97,9.79,2024-11-17
+356,12,Correr al aire libre,44,4.51,2024-12-17
+357,12,Correr al aire libre,88,11.88,2024-12-28
+358,12,Caminadora,64,6.53,2024-12-25
+359,12,Entrenamiento de resistencia,38,5.19,2025-01-02
+360,12,Entrenamiento de resistencia,69,7.46,2024-12-14
+361,12,Caminadora,78,9.66,2024-12-13
+362,12,Entrenamiento de resistencia,89,10.12,2024-12-04
+363,13,Intervalos de velocidad,73,10.26,2025-01-01
+364,13,Intervalos de velocidad,44,3.83,2024-11-11
+365,13,Caminadora,119,9.78,2024-12-29
+366,13,Entrenamiento de resistencia,100,13.72,2024-11-12
+367,13,Caminadora,81,9.45,2024-11-29
+368,13,Entrenamiento de resistencia,59,8.6,2024-11-21
+369,13,Caminadora,58,6.7,2024-11-11
+370,13,Entrenamiento de resistencia,42,4.76,2024-12-26
+371,13,Intervalos de velocidad,99,11.76,2024-12-27
+372,13,Entrenamiento de resistencia,104,14.14,2024-11-11
+373,13,Intervalos de velocidad,69,6.01,2024-11-14
+374,13,Entrenamiento de resistencia,39,4.36,2024-12-28
+375,13,Caminadora,50,6.95,2024-11-17
+376,13,Caminadora,39,5.84,2024-11-11
+377,13,Intervalos de velocidad,38,5.69,2024-11-10
+378,13,Correr al aire libre,99,8.13,2024-11-30
+379,13,Intervalos de velocidad,115,15.38,2024-12-27
+380,13,Entrenamiento de resistencia,61,8.51,2024-11-16
+381,13,Caminadora,45,5.12,2024-11-14
+382,13,Correr al aire libre,34,4.12,2024-12-04
+383,13,Intervalos de velocidad,70,7.48,2024-12-08
+384,13,Correr al aire libre,99,8.79,2024-11-23
+385,13,Intervalos de velocidad,118,12.44,2025-01-03
+386,13,Entrenamiento de resistencia,93,10.0,2024-12-02
+387,13,Caminadora,79,8.67,2024-12-08
+388,14,Correr al aire libre,47,4.3,2024-11-12
+389,14,Caminadora,48,7.1,2024-11-08
+390,14,Entrenamiento de resistencia,40,4.72,2024-12-26
+391,14,Caminadora,36,4.64,2024-12-22
+392,14,Intervalos de velocidad,95,8.72,2024-12-18
+393,14,Entrenamiento de resistencia,107,12.6,2024-12-19
+394,14,Caminadora,36,4.79,2024-12-06
+395,14,Caminadora,83,8.65,2024-11-22
+396,14,Caminadora,89,11.49,2024-11-29
+397,14,Correr al aire libre,55,6.82,2024-11-22
+398,14,Intervalos de velocidad,48,5.32,2024-11-30
+399,14,Intervalos de velocidad,55,6.02,2024-11-25
+400,14,Entrenamiento de resistencia,117,14.46,2024-12-24
+401,14,Correr al aire libre,55,4.67,2024-12-13
+402,14,Caminadora,106,8.75,2024-12-16
+403,14,Correr al aire libre,86,10.54,2024-11-24
+404,14,Caminadora,36,4.4,2024-12-13
+405,14,Entrenamiento de resistencia,50,4.6,2024-12-15
+406,14,Intervalos de velocidad,54,5.0,2024-12-11
+407,14,Caminadora,95,13.92,2024-11-22
+408,14,Correr al aire libre,116,16.26,2024-11-17
+409,14,Entrenamiento de resistencia,50,6.27,2024-11-14
+410,14,Intervalos de velocidad,50,6.24,2024-11-26
+411,14,Caminadora,106,15.38,2024-12-26
+412,14,Entrenamiento de resistencia,97,8.24,2024-12-04
+413,14,Entrenamiento de resistencia,36,3.46,2024-11-09
+414,14,Intervalos de velocidad,47,5.36,2024-11-11
+415,14,Correr al aire libre,85,8.93,2024-12-19
+416,14,Caminadora,59,5.38,2024-12-15
+417,15,Entrenamiento de resistencia,60,5.12,2024-11-22
+418,15,Entrenamiento de resistencia,114,14.79,2024-11-24
+419,15,Intervalos de velocidad,79,6.64,2024-12-05
+420,15,Correr al aire libre,40,4.22,2024-11-15
+421,15,Entrenamiento de resistencia,35,2.84,2024-12-13
+422,15,Intervalos de velocidad,77,10.32,2024-11-28
+423,15,Entrenamiento de resistencia,40,3.27,2024-11-28
+424,15,Entrenamiento de resistencia,77,9.06,2024-12-26
+425,15,Intervalos de velocidad,88,10.44,2024-12-06
+426,15,Correr al aire libre,42,4.43,2024-12-31
+427,15,Correr al aire libre,80,11.45,2024-12-24
+428,15,Intervalos de velocidad,97,13.17,2024-11-12
+429,15,Correr al aire libre,36,3.37,2024-12-26
+430,15,Correr al aire libre,79,9.51,2024-12-07
+431,15,Correr al aire libre,103,13.7,2024-11-13
+432,15,Correr al aire libre,81,11.9,2025-01-06
+433,15,Entrenamiento de resistencia,48,3.94,2024-11-26
+434,15,Intervalos de velocidad,108,15.51,2024-11-09
+435,15,Intervalos de velocidad,49,5.02,2024-11-09
+436,15,Intervalos de velocidad,49,4.87,2024-11-15
+437,15,Entrenamiento de resistencia,98,8.64,2024-11-29
+438,15,Caminadora,38,5.15,2024-11-13
+439,15,Caminadora,87,10.76,2024-12-22
+440,15,Caminadora,99,8.07,2025-01-07
+441,15,Entrenamiento de resistencia,86,12.39,2024-12-20
+442,16,Entrenamiento de resistencia,60,7.06,2024-12-08
+443,16,Intervalos de velocidad,53,6.6,2024-11-19
+444,16,Correr al aire libre,37,3.66,2024-11-22
+445,16,Correr al aire libre,105,9.09,2024-11-12
+446,16,Caminadora,120,13.0,2025-01-01
+447,16,Correr al aire libre,78,9.51,2024-12-22
+448,16,Correr al aire libre,97,11.17,2024-12-01
+449,16,Intervalos de velocidad,75,6.56,2024-11-10
+450,16,Caminadora,73,9.87,2024-11-16
+451,16,Correr al aire libre,55,7.2,2024-12-03
+452,16,Entrenamiento de resistencia,118,16.59,2024-12-02
+453,16,Caminadora,44,5.52,2024-12-04
+454,16,Correr al aire libre,93,8.2,2024-12-19
+455,16,Intervalos de velocidad,39,5.21,2024-12-18
+456,16,Caminadora,30,2.6,2024-11-27
+457,16,Caminadora,58,5.08,2025-01-03
+458,16,Entrenamiento de resistencia,36,3.67,2024-11-29
+459,16,Entrenamiento de resistencia,67,9.96,2024-12-07
+460,16,Intervalos de velocidad,96,14.32,2024-11-24
+461,16,Correr al aire libre,57,5.27,2024-12-21
+462,16,Correr al aire libre,105,9.94,2024-12-30
+463,16,Intervalos de velocidad,96,12.22,2024-12-05
+464,16,Correr al aire libre,101,9.43,2024-12-13
+465,16,Entrenamiento de resistencia,74,7.84,2024-12-28
+466,16,Intervalos de velocidad,109,15.74,2024-12-01
+467,16,Correr al aire libre,37,4.17,2025-01-05
+468,16,Caminadora,118,17.47,2025-01-06
+469,16,Caminadora,72,10.44,2024-11-11
+470,16,Entrenamiento de resistencia,37,3.4,2024-12-15
+471,16,Correr al aire libre,93,9.28,2024-11-22
+472,16,Correr al aire libre,81,8.71,2024-12-22
+473,16,Entrenamiento de resistencia,106,13.77,2025-01-04
+474,16,Caminadora,106,15.56,2024-11-18
+475,16,Caminadora,46,3.91,2025-01-04
+476,17,Entrenamiento de resistencia,58,7.64,2024-11-27
+477,17,Caminadora,69,7.6,2024-11-29
+478,17,Intervalos de velocidad,31,3.88,2024-12-20
+479,17,Caminadora,74,6.47,2024-12-26
+480,17,Correr al aire libre,43,5.98,2024-12-24
+481,17,Correr al aire libre,67,7.03,2024-11-09
+482,17,Correr al aire libre,32,3.27,2025-01-03
+483,17,Entrenamiento de resistencia,51,5.25,2024-12-15
+484,17,Intervalos de velocidad,30,3.66,2024-12-05
+485,17,Intervalos de velocidad,85,12.02,2024-12-22
+486,17,Entrenamiento de resistencia,69,8.01,2024-11-14
+487,17,Entrenamiento de resistencia,48,6.56,2024-12-01
+488,17,Intervalos de velocidad,87,8.49,2024-11-30
+489,17,Entrenamiento de resistencia,92,13.53,2024-12-02
+490,17,Caminadora,92,7.73,2024-11-10
+491,17,Caminadora,77,7.56,2025-01-07
+492,17,Caminadora,119,12.68,2024-12-27
+493,17,Correr al aire libre,63,9.34,2024-12-21
+494,17,Entrenamiento de resistencia,45,6.03,2024-11-19
+495,17,Entrenamiento de resistencia,34,3.17,2024-12-23
+496,17,Entrenamiento de resistencia,95,10.78,2024-11-08
+497,17,Entrenamiento de resistencia,67,5.93,2024-12-23
+498,17,Entrenamiento de resistencia,30,3.78,2024-12-08
+499,17,Entrenamiento de resistencia,45,4.51,2024-11-23
+500,17,Correr al aire libre,42,5.03,2024-12-09
+501,17,Caminadora,49,6.31,2024-11-21
+502,17,Entrenamiento de resistencia,92,11.18,2024-11-24
+503,18,Correr al aire libre,71,6.78,2025-01-06
+504,18,Caminadora,69,5.87,2024-11-27
+505,18,Entrenamiento de resistencia,55,7.48,2024-12-04
+506,18,Entrenamiento de resistencia,90,8.41,2024-11-11
+507,18,Intervalos de velocidad,86,11.32,2024-12-23
+508,18,Entrenamiento de resistencia,55,5.02,2024-12-18
+509,18,Correr al aire libre,117,11.54,2024-12-17
+510,18,Entrenamiento de resistencia,63,5.85,2024-11-30
+511,18,Intervalos de velocidad,42,5.64,2024-12-15
+512,18,Correr al aire libre,58,8.33,2024-11-20
+513,18,Caminadora,113,13.34,2024-12-02
+514,18,Entrenamiento de resistencia,38,4.97,2025-01-06
+515,18,Caminadora,78,9.43,2024-12-16
+516,18,Correr al aire libre,107,12.64,2024-12-15
+517,18,Caminadora,39,3.22,2024-12-12
+518,18,Caminadora,85,9.01,2025-01-02
+519,18,Correr al aire libre,80,11.51,2024-12-25
+520,18,Caminadora,90,12.0,2024-11-28
+521,18,Entrenamiento de resistencia,46,5.49,2024-11-13
+522,18,Intervalos de velocidad,47,5.95,2025-01-02
+523,18,Intervalos de velocidad,36,4.35,2024-11-28
+524,19,Entrenamiento de resistencia,76,7.69,2024-12-02
+525,19,Caminadora,71,6.65,2024-12-25
+526,19,Entrenamiento de resistencia,112,16.55,2024-12-13
+527,19,Entrenamiento de resistencia,104,9.99,2024-12-21
+528,19,Correr al aire libre,43,5.38,2024-11-10
+529,19,Caminadora,88,7.6,2024-11-10
+530,19,Intervalos de velocidad,85,8.12,2024-12-27
+531,19,Correr al aire libre,109,10.46,2024-11-30
+532,19,Entrenamiento de resistencia,63,7.36,2024-11-22
+533,19,Correr al aire libre,32,4.45,2024-11-11
+534,19,Caminadora,39,3.14,2024-11-11
+535,19,Entrenamiento de resistencia,102,10.08,2024-11-10
+536,19,Caminadora,30,4.25,2024-11-18
+537,19,Caminadora,116,13.76,2024-12-19
+538,19,Intervalos de velocidad,70,6.2,2024-12-22
+539,19,Intervalos de velocidad,104,13.64,2024-11-08
+540,19,Correr al aire libre,40,5.78,2024-11-28
+541,19,Correr al aire libre,91,11.34,2024-12-27
+542,19,Intervalos de velocidad,44,4.02,2024-12-01
+543,19,Caminadora,116,13.29,2025-01-03
+544,19,Intervalos de velocidad,105,10.83,2024-12-17
+545,20,Correr al aire libre,53,6.35,2024-11-19
+546,20,Caminadora,106,15.24,2024-11-14
+547,20,Caminadora,51,5.98,2024-12-09
+548,20,Correr al aire libre,40,3.37,2024-12-24
+549,20,Correr al aire libre,33,3.55,2024-12-07
+550,20,Caminadora,37,5.31,2024-12-23
+551,20,Caminadora,35,3.27,2024-11-29
+552,20,Entrenamiento de resistencia,82,11.48,2024-12-02
+553,20,Entrenamiento de resistencia,77,6.67,2024-12-01
+554,20,Entrenamiento de resistencia,114,12.67,2024-12-03
+555,20,Correr al aire libre,97,9.24,2024-11-13
+556,20,Entrenamiento de resistencia,114,9.87,2024-12-14
+557,20,Entrenamiento de resistencia,36,5.16,2025-01-02
+558,20,Entrenamiento de resistencia,54,6.88,2025-01-06
+559,20,Caminadora,83,7.61,2024-11-25
+560,20,Intervalos de velocidad,84,10.13,2024-11-19
+561,20,Entrenamiento de resistencia,62,8.99,2024-12-05
+562,20,Caminadora,42,4.74,2024-12-29
+563,20,Entrenamiento de resistencia,112,13.55,2024-12-22
+564,20,Caminadora,45,3.95,2024-12-16
+565,20,Correr al aire libre,115,9.23,2024-12-22
+566,20,Intervalos de velocidad,54,5.08,2024-12-17
+567,20,Entrenamiento de resistencia,97,11.32,2024-11-12
+568,20,Intervalos de velocidad,112,14.99,2024-12-03
+569,20,Intervalos de velocidad,50,7.07,2024-11-22
+570,20,Intervalos de velocidad,90,11.12,2024-11-14
+571,20,Entrenamiento de resistencia,76,7.65,2024-12-07
+572,20,Caminadora,65,6.27,2024-11-15
+573,20,Caminadora,83,8.33,2024-12-08
+574,20,Entrenamiento de resistencia,75,7.94,2025-01-04
+575,20,Intervalos de velocidad,78,11.56,2024-11-24
+576,20,Entrenamiento de resistencia,32,3.78,2024-11-17
+577,20,Correr al aire libre,109,13.64,2024-12-03
+578,20,Caminadora,90,9.28,2024-12-04
+579,20,Intervalos de velocidad,84,10.01,2024-12-05
+580,20,Entrenamiento de resistencia,70,7.54,2025-01-02
+581,21,Entrenamiento de resistencia,105,8.84,2024-11-12
+582,21,Entrenamiento de resistencia,85,11.58,2024-12-01
+583,21,Entrenamiento de resistencia,102,12.5,2024-12-02
+584,21,Caminadora,91,10.02,2024-12-21
+585,21,Entrenamiento de resistencia,111,13.09,2024-11-26
+586,21,Intervalos de velocidad,92,9.08,2024-12-04
+587,21,Correr al aire libre,67,7.85,2024-11-27
+588,21,Caminadora,53,7.41,2025-01-02
+589,21,Entrenamiento de resistencia,108,16.14,2024-12-02
+590,21,Entrenamiento de resistencia,74,7.97,2024-11-28
+591,21,Intervalos de velocidad,92,10.49,2025-01-06
+592,21,Correr al aire libre,96,13.2,2024-11-16
+593,21,Intervalos de velocidad,79,9.68,2024-12-01
+594,21,Entrenamiento de resistencia,67,9.67,2024-11-11
+595,21,Entrenamiento de resistencia,66,9.74,2024-11-19
+596,21,Caminadora,63,6.99,2024-11-29
+597,21,Intervalos de velocidad,91,10.54,2024-11-24
+598,21,Intervalos de velocidad,115,11.69,2024-12-11
+599,21,Caminadora,96,10.4,2024-11-19
+600,21,Intervalos de velocidad,76,6.81,2024-12-04
+601,21,Intervalos de velocidad,58,5.91,2024-12-04
+602,21,Intervalos de velocidad,100,12.79,2024-11-24
+603,21,Correr al aire libre,97,13.63,2024-12-26
+604,21,Correr al aire libre,57,4.84,2024-12-29
+605,21,Correr al aire libre,112,9.05,2024-12-30
+606,21,Intervalos de velocidad,71,7.95,2024-12-17
+607,21,Correr al aire libre,53,4.64,2024-12-02
+608,21,Intervalos de velocidad,58,5.26,2024-11-30
+609,21,Entrenamiento de resistencia,99,9.85,2024-12-15
+610,21,Intervalos de velocidad,48,5.83,2024-12-27
+611,21,Caminadora,55,6.72,2024-11-20
+612,21,Caminadora,31,3.1,2024-11-22
+613,21,Caminadora,102,8.7,2024-12-04
+614,21,Correr al aire libre,115,9.98,2025-01-05
+615,21,Correr al aire libre,106,13.55,2024-12-18
+616,21,Entrenamiento de resistencia,114,13.11,2024-12-10
+617,21,Correr al aire libre,87,7.4,2024-12-06
+618,22,Intervalos de velocidad,40,3.46,2024-11-24
+619,22,Intervalos de velocidad,72,6.03,2024-11-19
+620,22,Entrenamiento de resistencia,57,7.45,2024-11-21
+621,22,Correr al aire libre,119,16.03,2024-12-11
+622,22,Entrenamiento de resistencia,45,4.94,2024-12-02
+623,22,Intervalos de velocidad,39,3.98,2024-12-05
+624,22,Correr al aire libre,47,6.34,2024-11-27
+625,22,Entrenamiento de resistencia,50,4.31,2024-12-13
+626,22,Entrenamiento de resistencia,46,4.36,2024-11-12
+627,22,Intervalos de velocidad,53,5.22,2024-12-17
+628,22,Caminadora,57,5.54,2024-12-09
+629,22,Caminadora,34,4.46,2024-12-21
+630,22,Intervalos de velocidad,100,13.68,2024-12-11
+631,22,Correr al aire libre,95,9.09,2025-01-06
+632,22,Intervalos de velocidad,66,8.54,2025-01-01
+633,22,Intervalos de velocidad,85,11.13,2024-12-14
+634,22,Correr al aire libre,64,5.77,2024-12-08
+635,22,Caminadora,91,11.47,2024-11-22
+636,22,Intervalos de velocidad,94,11.53,2024-11-24
+637,22,Entrenamiento de resistencia,54,6.32,2024-11-20
+638,22,Entrenamiento de resistencia,96,12.44,2024-11-19
+639,23,Caminadora,86,7.83,2024-12-24
+640,23,Correr al aire libre,55,4.68,2024-11-30
+641,23,Caminadora,67,6.64,2025-01-07
+642,23,Correr al aire libre,75,9.52,2024-12-13
+643,23,Correr al aire libre,108,13.88,2024-12-25
+644,23,Correr al aire libre,102,14.43,2024-12-17
+645,23,Correr al aire libre,49,6.7,2024-12-01
+646,23,Correr al aire libre,104,10.73,2024-11-14
+647,23,Entrenamiento de resistencia,81,11.53,2024-12-21
+648,23,Intervalos de velocidad,85,8.05,2025-01-07
+649,23,Caminadora,98,10.56,2024-12-07
+650,23,Caminadora,43,5.12,2025-01-02
+651,23,Intervalos de velocidad,111,13.78,2024-12-13
+652,23,Caminadora,82,9.47,2024-11-24
+653,23,Entrenamiento de resistencia,30,3.52,2024-11-11
+654,23,Correr al aire libre,102,12.67,2024-11-16
+655,23,Caminadora,54,5.9,2024-12-07
+656,23,Entrenamiento de resistencia,106,9.83,2024-11-16
+657,23,Intervalos de velocidad,103,15.0,2024-11-29
+658,23,Caminadora,70,9.55,2024-12-15
+659,23,Entrenamiento de resistencia,89,11.23,2024-12-23
+660,23,Caminadora,109,15.66,2024-11-14
+661,23,Intervalos de velocidad,104,9.93,2024-11-17
+662,23,Correr al aire libre,87,7.95,2024-12-06
+663,23,Entrenamiento de resistencia,79,7.19,2024-11-16
+664,23,Intervalos de velocidad,86,8.26,2025-01-02
+665,23,Caminadora,95,12.08,2024-11-22
+666,23,Correr al aire libre,110,12.65,2024-11-18
+667,23,Intervalos de velocidad,116,14.8,2024-12-05
+668,23,Entrenamiento de resistencia,94,8.11,2024-12-08
+669,23,Correr al aire libre,115,10.5,2024-11-12
+670,23,Intervalos de velocidad,47,6.95,2024-12-07
+671,23,Caminadora,111,12.18,2024-11-24
+672,23,Correr al aire libre,97,10.49,2024-12-29
+673,23,Entrenamiento de resistencia,44,3.99,2024-12-11
+674,23,Entrenamiento de resistencia,93,12.38,2024-11-23
+675,24,Intervalos de velocidad,83,9.29,2024-12-22
+676,24,Correr al aire libre,46,6.06,2024-12-25
+677,24,Entrenamiento de resistencia,72,10.13,2024-12-06
+678,24,Correr al aire libre,68,9.6,2024-11-15
+679,24,Correr al aire libre,115,10.5,2024-12-11
+680,24,Intervalos de velocidad,63,8.54,2024-12-15
+681,24,Intervalos de velocidad,30,4.07,2024-12-01
+682,24,Entrenamiento de resistencia,49,4.81,2024-11-25
+683,24,Intervalos de velocidad,57,4.8,2024-12-09
+684,24,Correr al aire libre,72,5.85,2024-12-03
+685,24,Intervalos de velocidad,120,16.1,2024-11-09
+686,24,Correr al aire libre,75,10.01,2024-12-07
+687,24,Correr al aire libre,106,9.51,2024-12-15
+688,24,Entrenamiento de resistencia,33,3.58,2024-11-17
+689,24,Intervalos de velocidad,82,7.01,2024-11-20
+690,24,Caminadora,41,5.9,2024-11-29
+691,24,Entrenamiento de resistencia,88,8.95,2025-01-01
+692,24,Entrenamiento de resistencia,60,6.95,2024-11-17
+693,24,Intervalos de velocidad,76,8.88,2025-01-01
+694,24,Intervalos de velocidad,46,3.77,2024-11-23
+695,24,Intervalos de velocidad,83,10.44,2024-12-27
+696,24,Intervalos de velocidad,108,15.42,2024-12-24
+697,24,Caminadora,110,11.95,2024-11-20
+698,24,Intervalos de velocidad,43,4.74,2024-11-16
+699,24,Caminadora,90,8.39,2025-01-03
+700,24,Correr al aire libre,78,11.54,2024-11-14
+701,24,Correr al aire libre,111,15.15,2025-01-02
+702,24,Intervalos de velocidad,40,3.27,2025-01-06
+703,24,Intervalos de velocidad,96,9.04,2024-12-31
+704,24,Caminadora,35,4.37,2024-11-26
+705,24,Correr al aire libre,37,3.88,2025-01-05
+706,24,Entrenamiento de resistencia,107,12.06,2024-12-02
+707,24,Entrenamiento de resistencia,77,8.05,2024-11-23
+708,24,Entrenamiento de resistencia,60,5.58,2024-12-19
+709,24,Correr al aire libre,78,6.53,2024-12-24
+710,24,Caminadora,74,6.65,2024-12-17
+711,24,Intervalos de velocidad,108,9.16,2024-11-25
+712,24,Caminadora,113,13.39,2024-11-18
+713,24,Correr al aire libre,80,11.71,2024-12-15
+714,24,Intervalos de velocidad,37,4.3,2025-01-03
+715,25,Caminadora,54,6.62,2024-12-03
+716,25,Caminadora,39,4.29,2024-12-31
+717,25,Caminadora,81,7.13,2024-12-24
+718,25,Intervalos de velocidad,99,12.2,2024-12-06
+719,25,Caminadora,65,7.74,2024-11-08
+720,25,Intervalos de velocidad,100,13.85,2025-01-04
+721,25,Intervalos de velocidad,50,5.04,2024-12-27
+722,25,Caminadora,61,5.13,2025-01-07
+723,25,Entrenamiento de resistencia,89,11.61,2024-11-13
+724,25,Caminadora,101,14.63,2024-12-07
+725,25,Entrenamiento de resistencia,114,15.34,2024-12-30
+726,25,Intervalos de velocidad,43,4.19,2025-01-07
+727,25,Entrenamiento de resistencia,51,4.59,2024-12-19
+728,25,Intervalos de velocidad,110,14.35,2024-12-17
+729,25,Intervalos de velocidad,41,3.43,2024-11-20
+730,25,Correr al aire libre,40,4.17,2024-11-23
+731,25,Caminadora,69,6.79,2024-12-27
+732,25,Intervalos de velocidad,117,10.09,2024-12-14
+733,25,Intervalos de velocidad,105,11.79,2024-12-31
+734,25,Entrenamiento de resistencia,86,7.14,2024-11-09
+735,25,Caminadora,107,9.02,2024-12-28
+736,25,Entrenamiento de resistencia,88,11.07,2024-12-20
+737,25,Caminadora,99,8.29,2024-12-22
+738,25,Caminadora,93,8.38,2024-11-24
+739,25,Caminadora,75,10.79,2024-12-23
+740,25,Correr al aire libre,49,6.99,2024-11-13
+741,25,Correr al aire libre,119,13.55,2024-12-21
+742,25,Entrenamiento de resistencia,36,4.37,2024-11-19
+743,25,Entrenamiento de resistencia,116,13.58,2024-11-15
+744,25,Intervalos de velocidad,49,4.06,2024-11-15
+745,25,Correr al aire libre,40,4.01,2024-12-14
+746,25,Intervalos de velocidad,113,10.55,2024-12-01
+747,25,Caminadora,109,11.39,2025-01-02
+748,25,Correr al aire libre,59,8.51,2024-11-27
+749,25,Caminadora,110,13.1,2025-01-03
+750,25,Correr al aire libre,44,6.47,2024-11-16
+751,26,Correr al aire libre,52,6.02,2024-12-09
+752,26,Correr al aire libre,38,4.58,2024-12-30
+753,26,Correr al aire libre,87,11.0,2025-01-03
+754,26,Correr al aire libre,89,7.59,2024-11-20
+755,26,Correr al aire libre,117,15.07,2024-12-11
+756,26,Caminadora,88,9.23,2024-12-27
+757,26,Entrenamiento de resistencia,37,4.05,2024-11-16
+758,26,Entrenamiento de resistencia,54,5.28,2024-12-01
+759,26,Entrenamiento de resistencia,101,14.77,2024-11-26
+760,26,Correr al aire libre,55,4.76,2024-11-10
+761,26,Entrenamiento de resistencia,41,3.74,2024-12-08
+762,26,Entrenamiento de resistencia,105,13.34,2024-11-27
+763,26,Correr al aire libre,55,7.52,2024-12-20
+764,26,Correr al aire libre,47,5.44,2024-12-19
+765,26,Entrenamiento de resistencia,45,5.37,2024-12-30
+766,26,Intervalos de velocidad,34,3.14,2024-12-03
+767,26,Caminadora,77,11.29,2024-11-23
+768,26,Intervalos de velocidad,115,11.66,2024-12-11
+769,26,Entrenamiento de resistencia,35,3.89,2024-12-13
+770,26,Caminadora,113,16.44,2024-11-27
+771,26,Intervalos de velocidad,66,8.32,2024-12-13
+772,26,Entrenamiento de resistencia,34,5.07,2024-12-25
+773,26,Intervalos de velocidad,49,4.49,2024-12-22
+774,26,Caminadora,95,8.85,2024-11-18
+775,26,Correr al aire libre,87,10.13,2025-01-05
+776,26,Correr al aire libre,53,4.94,2024-12-07
+777,27,Caminadora,44,5.51,2024-12-18
+778,27,Entrenamiento de resistencia,40,5.49,2024-12-05
+779,27,Correr al aire libre,35,4.53,2024-12-20
+780,27,Caminadora,95,10.43,2024-12-07
+781,27,Entrenamiento de resistencia,85,12.1,2024-12-15
+782,27,Entrenamiento de resistencia,111,14.47,2024-12-02
+783,27,Intervalos de velocidad,64,8.69,2024-12-28
+784,27,Entrenamiento de resistencia,58,6.95,2024-12-19
+785,27,Intervalos de velocidad,72,9.78,2024-12-14
+786,27,Intervalos de velocidad,73,8.13,2024-12-12
+787,27,Intervalos de velocidad,75,6.07,2024-11-28
+788,27,Intervalos de velocidad,39,5.63,2024-12-26
+789,27,Entrenamiento de resistencia,118,9.97,2024-11-27
+790,27,Caminadora,51,7.43,2024-11-17
+791,27,Intervalos de velocidad,73,6.49,2025-01-01
+792,27,Entrenamiento de resistencia,74,9.37,2024-11-29
+793,27,Intervalos de velocidad,105,10.13,2024-11-14
+794,27,Intervalos de velocidad,50,6.73,2025-01-06
+795,27,Entrenamiento de resistencia,81,11.08,2024-12-28
+796,27,Intervalos de velocidad,120,16.28,2024-12-08
+797,27,Intervalos de velocidad,56,5.13,2025-01-07
+798,27,Entrenamiento de resistencia,54,6.57,2024-11-21
+799,27,Intervalos de velocidad,46,6.32,2024-12-03
+800,27,Entrenamiento de resistencia,57,4.77,2024-11-21
+801,27,Correr al aire libre,33,3.56,2024-11-21
+802,27,Caminadora,113,9.61,2024-11-30
+803,27,Entrenamiento de resistencia,116,9.51,2024-12-28
+804,27,Intervalos de velocidad,103,10.18,2024-12-06
+805,27,Caminadora,99,9.56,2024-11-10
+806,27,Caminadora,54,7.58,2024-11-09
+807,27,Intervalos de velocidad,111,10.22,2024-12-22
+808,27,Caminadora,76,7.07,2025-01-07
+809,27,Entrenamiento de resistencia,84,12.28,2024-12-01
+810,27,Entrenamiento de resistencia,101,10.5,2024-12-25
+811,27,Correr al aire libre,55,5.93,2024-12-10
+812,27,Intervalos de velocidad,74,9.09,2024-11-14
+813,27,Caminadora,78,7.01,2024-11-23
+814,28,Entrenamiento de resistencia,75,8.71,2024-12-17
+815,28,Correr al aire libre,108,15.31,2025-01-05
+816,28,Caminadora,86,7.09,2024-12-13
+817,28,Intervalos de velocidad,56,5.2,2024-11-24
+818,28,Caminadora,80,6.64,2024-12-15
+819,28,Intervalos de velocidad,46,4.63,2025-01-01
+820,28,Correr al aire libre,84,10.85,2024-12-23
+821,28,Entrenamiento de resistencia,94,8.54,2024-11-17
+822,28,Entrenamiento de resistencia,73,9.78,2024-12-19
+823,28,Correr al aire libre,66,8.37,2024-11-24
+824,28,Correr al aire libre,98,10.66,2024-12-28
+825,28,Caminadora,78,9.68,2024-11-29
+826,28,Entrenamiento de resistencia,104,10.9,2025-01-07
+827,28,Correr al aire libre,87,11.03,2024-12-08
+828,28,Correr al aire libre,55,6.97,2025-01-01
+829,28,Intervalos de velocidad,33,2.72,2024-11-14
+830,28,Intervalos de velocidad,71,8.46,2024-12-16
+831,28,Correr al aire libre,65,5.56,2024-11-12
+832,28,Correr al aire libre,110,12.69,2024-12-03
+833,28,Entrenamiento de resistencia,102,13.03,2024-12-01
+834,28,Intervalos de velocidad,105,12.81,2024-11-23
+835,28,Caminadora,65,6.56,2025-01-01
+836,29,Caminadora,107,15.31,2024-12-03
+837,29,Correr al aire libre,95,8.15,2024-12-23
+838,29,Correr al aire libre,117,12.84,2024-11-13
+839,29,Intervalos de velocidad,54,4.98,2024-11-30
+840,29,Intervalos de velocidad,71,9.87,2025-01-03
+841,29,Entrenamiento de resistencia,98,12.63,2024-11-21
+842,29,Caminadora,30,3.86,2024-12-18
+843,29,Intervalos de velocidad,112,14.76,2024-12-13
+844,29,Correr al aire libre,74,9.11,2024-11-28
+845,29,Correr al aire libre,63,7.29,2024-11-17
+846,29,Caminadora,83,11.12,2024-12-07
+847,29,Caminadora,94,8.11,2025-01-03
+848,29,Intervalos de velocidad,92,11.38,2025-01-03
+849,29,Intervalos de velocidad,85,11.45,2024-12-11
+850,29,Correr al aire libre,98,12.68,2024-11-25
+851,29,Entrenamiento de resistencia,100,13.85,2024-11-30
+852,29,Correr al aire libre,67,7.76,2025-01-06
+853,29,Caminadora,78,8.1,2024-12-18
+854,29,Caminadora,86,7.71,2024-12-29
+855,29,Caminadora,52,4.25,2024-12-23
+856,29,Caminadora,86,7.72,2024-11-28
+857,29,Caminadora,111,9.53,2024-12-19
+858,29,Caminadora,46,4.31,2024-11-26
+859,29,Entrenamiento de resistencia,75,6.42,2024-12-22
+860,29,Intervalos de velocidad,104,12.89,2025-01-02
+861,29,Entrenamiento de resistencia,35,3.51,2025-01-02
+862,29,Correr al aire libre,57,8.18,2024-12-12
+863,29,Correr al aire libre,53,5.51,2024-12-16
+864,29,Caminadora,78,7.01,2024-11-27
+865,29,Caminadora,40,3.91,2024-11-19
+866,29,Intervalos de velocidad,84,12.47,2024-11-16
+867,29,Caminadora,39,4.36,2024-11-27
+868,29,Correr al aire libre,96,13.72,2024-11-15
+869,29,Entrenamiento de resistencia,78,9.59,2024-11-12
+870,29,Entrenamiento de resistencia,94,9.6,2024-12-07
+871,29,Entrenamiento de resistencia,92,13.57,2025-01-06
+872,30,Caminadora,68,6.77,2024-12-08
+873,30,Entrenamiento de resistencia,95,9.97,2024-12-15
+874,30,Intervalos de velocidad,101,14.75,2024-11-22
+875,30,Correr al aire libre,81,11.99,2024-12-14
+876,30,Caminadora,90,7.82,2024-12-17
+877,30,Entrenamiento de resistencia,104,8.84,2024-11-25
+878,30,Correr al aire libre,51,6.77,2025-01-06
+879,30,Caminadora,82,9.37,2024-12-30
+880,30,Correr al aire libre,32,3.85,2024-12-10
+881,30,Caminadora,35,4.15,2024-11-30
+882,30,Intervalos de velocidad,115,14.3,2024-12-19
+883,30,Entrenamiento de resistencia,66,8.11,2024-12-12
+884,30,Correr al aire libre,116,9.42,2024-12-07
+885,30,Caminadora,81,6.89,2024-12-05
+886,30,Entrenamiento de resistencia,76,8.65,2024-12-05
+887,30,Correr al aire libre,110,13.12,2024-12-05
+888,30,Entrenamiento de resistencia,102,8.36,2024-12-19
+889,30,Intervalos de velocidad,61,8.24,2024-11-12
+890,30,Entrenamiento de resistencia,32,4.37,2024-11-20
+891,30,Entrenamiento de resistencia,104,12.56,2024-11-28
+892,30,Correr al aire libre,92,8.5,2024-11-17
+893,30,Intervalos de velocidad,45,3.95,2024-12-19
+894,30,Correr al aire libre,69,7.98,2024-11-15
+895,30,Correr al aire libre,41,3.3,2024-11-25
+896,30,Correr al aire libre,85,8.86,2024-11-11
+897,30,Correr al aire libre,51,5.34,2024-11-29
+898,30,Entrenamiento de resistencia,97,9.27,2024-11-09
+899,31,Entrenamiento de resistencia,47,5.76,2024-12-07
+900,31,Intervalos de velocidad,63,5.45,2024-12-10
+901,31,Entrenamiento de resistencia,70,5.86,2024-12-08
+902,31,Caminadora,71,6.73,2024-12-19
+903,31,Entrenamiento de resistencia,104,13.31,2024-11-08
+904,31,Correr al aire libre,60,7.33,2024-12-29
+905,31,Caminadora,100,11.18,2024-12-31
+906,31,Correr al aire libre,61,6.73,2024-12-04
+907,31,Correr al aire libre,58,6.93,2024-11-25
+908,31,Intervalos de velocidad,87,10.61,2024-11-28
+909,31,Caminadora,90,7.47,2024-11-25
+910,31,Intervalos de velocidad,114,13.46,2024-11-17
+911,31,Caminadora,31,4.2,2024-12-29
+912,31,Intervalos de velocidad,110,16.29,2024-11-21
+913,31,Intervalos de velocidad,56,5.51,2024-12-26
+914,31,Intervalos de velocidad,53,7.13,2024-12-24
+915,31,Entrenamiento de resistencia,65,5.78,2024-12-16
+916,31,Correr al aire libre,30,3.44,2024-12-28
+917,31,Entrenamiento de resistencia,107,8.58,2024-11-19
+918,31,Intervalos de velocidad,50,4.66,2024-11-15
+919,31,Intervalos de velocidad,115,11.39,2024-12-13
+920,31,Entrenamiento de resistencia,46,5.96,2024-11-28
+921,31,Caminadora,78,6.88,2024-12-30
+922,31,Correr al aire libre,88,9.75,2024-11-08
+923,31,Intervalos de velocidad,108,13.63,2024-11-24
+924,31,Intervalos de velocidad,36,5.36,2024-12-01
+925,31,Entrenamiento de resistencia,32,3.13,2024-12-04
+926,31,Entrenamiento de resistencia,77,10.89,2025-01-07
+927,31,Caminadora,90,9.41,2024-11-28
+928,31,Caminadora,91,10.56,2024-12-11
+929,31,Intervalos de velocidad,112,9.17,2025-01-01
+930,31,Correr al aire libre,48,4.66,2024-12-04
+931,31,Intervalos de velocidad,36,4.77,2025-01-01
+932,31,Intervalos de velocidad,47,5.64,2024-12-23
+933,32,Entrenamiento de resistencia,75,9.71,2024-11-15
+934,32,Caminadora,81,10.17,2024-12-10
+935,32,Entrenamiento de resistencia,111,16.49,2024-12-26
+936,32,Entrenamiento de resistencia,59,8.21,2024-12-21
+937,32,Caminadora,76,9.12,2024-11-16
+938,32,Intervalos de velocidad,102,9.77,2024-12-25
+939,32,Caminadora,90,11.42,2024-12-31
+940,32,Correr al aire libre,95,7.7,2024-11-13
+941,32,Intervalos de velocidad,35,3.55,2024-12-28
+942,32,Correr al aire libre,102,12.26,2024-12-04
+943,32,Correr al aire libre,118,14.73,2024-11-08
+944,32,Caminadora,74,10.32,2025-01-06
+945,32,Intervalos de velocidad,120,12.39,2024-11-22
+946,32,Caminadora,88,11.29,2024-12-12
+947,32,Entrenamiento de resistencia,42,5.7,2024-11-12
+948,32,Entrenamiento de resistencia,55,7.51,2024-12-15
+949,32,Entrenamiento de resistencia,46,6.66,2024-11-13
+950,32,Correr al aire libre,72,10.45,2025-01-05
+951,32,Caminadora,90,10.05,2024-12-29
+952,32,Correr al aire libre,39,5.84,2024-12-03
+953,32,Correr al aire libre,88,10.63,2024-12-30
+954,32,Caminadora,49,4.97,2025-01-05
+955,33,Caminadora,113,11.49,2025-01-05
+956,33,Entrenamiento de resistencia,110,10.92,2024-11-16
+957,33,Entrenamiento de resistencia,106,9.93,2024-12-11
+958,33,Caminadora,58,6.13,2024-12-22
+959,33,Correr al aire libre,41,4.85,2024-11-18
+960,33,Correr al aire libre,104,9.92,2025-01-05
+961,33,Caminadora,117,16.35,2024-12-23
+962,33,Correr al aire libre,31,4.29,2024-12-18
+963,33,Correr al aire libre,118,15.52,2025-01-03
+964,33,Entrenamiento de resistencia,97,13.76,2024-11-10
+965,33,Correr al aire libre,118,16.97,2024-11-27
+966,33,Intervalos de velocidad,42,3.83,2024-11-13
+967,33,Intervalos de velocidad,39,4.07,2024-12-31
+968,33,Caminadora,46,6.02,2024-11-13
+969,33,Correr al aire libre,113,12.99,2025-01-03
+970,33,Intervalos de velocidad,115,15.83,2024-11-18
+971,33,Entrenamiento de resistencia,69,5.68,2024-11-29
+972,33,Entrenamiento de resistencia,31,2.54,2024-11-23
+973,33,Caminadora,116,13.56,2024-12-31
+974,33,Entrenamiento de resistencia,72,7.05,2024-11-27
+975,33,Correr al aire libre,104,14.5,2024-12-08
+976,33,Entrenamiento de resistencia,67,5.69,2024-12-13
+977,33,Caminadora,119,14.14,2024-11-09
+978,33,Entrenamiento de resistencia,106,15.11,2024-12-02
+979,33,Intervalos de velocidad,76,9.38,2024-12-16
+980,33,Caminadora,66,9.84,2024-12-06
+981,33,Entrenamiento de resistencia,96,13.62,2025-01-02
+982,33,Entrenamiento de resistencia,100,9.77,2024-11-20
+983,34,Intervalos de velocidad,92,13.0,2024-11-09
+984,34,Correr al aire libre,55,7.02,2024-12-05
+985,34,Correr al aire libre,48,5.05,2025-01-06
+986,34,Entrenamiento de resistencia,106,15.35,2024-12-06
+987,34,Entrenamiento de resistencia,41,4.43,2024-12-28
+988,34,Correr al aire libre,109,9.08,2024-12-09
+989,34,Entrenamiento de resistencia,69,7.09,2024-12-26
+990,34,Intervalos de velocidad,68,5.82,2024-11-15
+991,34,Caminadora,57,7.84,2024-12-10
+992,34,Correr al aire libre,89,8.45,2024-12-06
+993,34,Entrenamiento de resistencia,94,11.74,2025-01-05
+994,34,Entrenamiento de resistencia,117,12.11,2024-12-25
+995,34,Caminadora,101,9.71,2024-11-08
+996,34,Intervalos de velocidad,102,11.1,2024-12-27
+997,34,Caminadora,103,11.63,2024-11-11
+998,34,Correr al aire libre,117,10.27,2024-11-13
+999,34,Intervalos de velocidad,50,4.98,2024-12-02
+1000,34,Caminadora,90,10.52,2024-12-22
+1001,34,Correr al aire libre,39,4.01,2024-12-28
+1002,34,Intervalos de velocidad,98,11.85,2024-11-12
+1003,34,Caminadora,99,10.42,2024-11-11
+1004,34,Caminadora,61,7.6,2024-11-25
+1005,35,Caminadora,114,12.03,2024-12-26
+1006,35,Intervalos de velocidad,33,3.61,2025-01-02
+1007,35,Correr al aire libre,70,10.21,2024-12-27
+1008,35,Intervalos de velocidad,33,4.31,2024-11-21
+1009,35,Correr al aire libre,57,8.02,2024-11-18
+1010,35,Entrenamiento de resistencia,118,17.2,2024-12-31
+1011,35,Caminadora,52,6.1,2024-11-25
+1012,35,Correr al aire libre,79,10.89,2025-01-07
+1013,35,Entrenamiento de resistencia,38,5.08,2024-12-20
+1014,35,Entrenamiento de resistencia,46,4.92,2024-11-13
+1015,35,Entrenamiento de resistencia,69,6.81,2025-01-04
+1016,35,Caminadora,75,7.96,2024-12-21
+1017,35,Correr al aire libre,95,8.74,2024-11-20
+1018,35,Correr al aire libre,104,9.75,2024-12-15
+1019,35,Caminadora,85,10.25,2025-01-03
+1020,35,Caminadora,76,8.4,2024-11-13
+1021,35,Intervalos de velocidad,88,10.23,2024-12-21
+1022,35,Entrenamiento de resistencia,97,11.14,2025-01-05
+1023,35,Entrenamiento de resistencia,63,9.14,2024-12-09
+1024,35,Intervalos de velocidad,101,14.6,2024-11-18
+1025,35,Intervalos de velocidad,39,5.6,2025-01-07
+1026,35,Entrenamiento de resistencia,118,15.5,2024-11-26
+1027,35,Caminadora,51,6.09,2024-12-26
+1028,35,Entrenamiento de resistencia,81,10.81,2024-11-10
+1029,35,Caminadora,108,16.08,2024-12-04
+1030,35,Correr al aire libre,50,4.12,2024-11-19
+1031,35,Correr al aire libre,84,8.46,2024-12-16
+1032,35,Correr al aire libre,40,5.39,2024-12-28
+1033,35,Intervalos de velocidad,67,7.42,2024-11-24
+1034,35,Intervalos de velocidad,99,12.33,2024-11-18
+1035,36,Entrenamiento de resistencia,58,6.48,2024-11-25
+1036,36,Correr al aire libre,101,12.74,2024-11-29
+1037,36,Caminadora,56,5.38,2024-12-28
+1038,36,Caminadora,119,16.04,2024-12-14
+1039,36,Entrenamiento de resistencia,42,3.45,2024-12-17
+1040,36,Caminadora,113,9.45,2024-12-27
+1041,36,Correr al aire libre,31,2.55,2024-11-28
+1042,36,Entrenamiento de resistencia,33,3.72,2024-12-21
+1043,36,Entrenamiento de resistencia,52,5.71,2024-12-07
+1044,36,Correr al aire libre,101,12.36,2024-12-19
+1045,36,Entrenamiento de resistencia,55,7.19,2024-11-29
+1046,36,Correr al aire libre,99,14.12,2024-11-16
+1047,36,Correr al aire libre,111,15.33,2025-01-01
+1048,36,Correr al aire libre,111,15.3,2024-11-12
+1049,36,Entrenamiento de resistencia,113,9.4,2024-12-07
+1050,36,Entrenamiento de resistencia,54,7.36,2024-12-21
+1051,36,Correr al aire libre,73,6.8,2024-11-25
+1052,36,Correr al aire libre,75,6.44,2024-12-07
+1053,36,Entrenamiento de resistencia,80,6.84,2024-11-26
+1054,36,Correr al aire libre,83,9.96,2024-11-30
+1055,36,Intervalos de velocidad,33,2.73,2024-12-15
+1056,36,Caminadora,61,5.26,2024-11-28
+1057,36,Intervalos de velocidad,71,10.17,2024-11-21
+1058,37,Caminadora,86,10.73,2024-11-12
+1059,37,Caminadora,90,13.03,2024-11-12
+1060,37,Entrenamiento de resistencia,65,8.56,2024-12-19
+1061,37,Intervalos de velocidad,72,7.67,2024-12-02
+1062,37,Intervalos de velocidad,119,15.28,2024-12-26
+1063,37,Correr al aire libre,79,8.98,2024-12-23
+1064,37,Intervalos de velocidad,111,13.76,2025-01-04
+1065,37,Entrenamiento de resistencia,115,11.3,2024-11-21
+1066,37,Caminadora,102,12.63,2024-11-28
+1067,37,Caminadora,99,12.78,2024-12-20
+1068,37,Entrenamiento de resistencia,76,10.86,2024-11-18
+1069,37,Correr al aire libre,70,6.36,2024-11-29
+1070,37,Entrenamiento de resistencia,70,7.79,2024-12-03
+1071,37,Entrenamiento de resistencia,54,7.39,2024-11-28
+1072,37,Caminadora,70,9.6,2024-11-09
+1073,37,Correr al aire libre,58,5.14,2024-12-29
+1074,37,Intervalos de velocidad,96,12.93,2024-11-16
+1075,37,Intervalos de velocidad,91,8.26,2024-12-08
+1076,37,Caminadora,68,8.52,2024-11-25
+1077,37,Caminadora,105,10.28,2024-11-09
+1078,37,Entrenamiento de resistencia,119,17.35,2024-12-20
+1079,37,Correr al aire libre,56,6.26,2024-11-22
+1080,37,Correr al aire libre,55,5.42,2024-12-19
+1081,37,Caminadora,59,7.0,2024-12-01
+1082,37,Caminadora,90,12.18,2024-11-20
+1083,37,Correr al aire libre,75,10.75,2024-11-13
+1084,37,Caminadora,56,8.35,2024-12-23
+1085,37,Correr al aire libre,97,13.18,2024-11-16
+1086,37,Correr al aire libre,83,11.3,2024-11-16
+1087,37,Entrenamiento de resistencia,100,11.76,2024-12-20
+1088,37,Intervalos de velocidad,49,5.25,2025-01-02
+1089,37,Correr al aire libre,87,10.49,2024-11-15
+1090,37,Correr al aire libre,59,7.39,2024-12-04
+1091,37,Caminadora,62,6.01,2024-11-19
+1092,37,Entrenamiento de resistencia,91,7.61,2025-01-06
+1093,37,Correr al aire libre,76,8.56,2024-11-09
+1094,37,Intervalos de velocidad,39,3.91,2024-11-29
+1095,37,Entrenamiento de resistencia,104,14.06,2025-01-02
+1096,37,Entrenamiento de resistencia,68,5.66,2024-11-17
+1097,37,Intervalos de velocidad,97,14.15,2024-12-28
+1098,38,Intervalos de velocidad,106,9.64,2024-12-04
+1099,38,Correr al aire libre,46,5.35,2024-12-23
+1100,38,Intervalos de velocidad,92,10.75,2025-01-06
+1101,38,Correr al aire libre,46,6.67,2025-01-07
+1102,38,Correr al aire libre,32,2.86,2024-11-25
+1103,38,Entrenamiento de resistencia,103,12.51,2024-12-08
+1104,38,Entrenamiento de resistencia,36,3.05,2024-12-25
+1105,38,Entrenamiento de resistencia,108,12.03,2025-01-05
+1106,38,Intervalos de velocidad,44,5.44,2025-01-02
+1107,38,Intervalos de velocidad,120,16.9,2024-12-08
+1108,38,Entrenamiento de resistencia,88,10.21,2024-12-27
+1109,38,Intervalos de velocidad,34,4.27,2024-11-24
+1110,38,Caminadora,97,10.61,2024-11-11
+1111,38,Intervalos de velocidad,88,8.77,2024-12-03
+1112,38,Intervalos de velocidad,30,4.49,2025-01-07
+1113,38,Intervalos de velocidad,48,6.52,2024-12-26
+1114,38,Caminadora,111,16.09,2025-01-05
+1115,38,Correr al aire libre,75,7.37,2024-12-03
+1116,38,Entrenamiento de resistencia,77,8.07,2024-11-17
+1117,38,Correr al aire libre,55,7.12,2024-12-16
+1118,38,Entrenamiento de resistencia,52,5.11,2024-12-24
+1119,39,Caminadora,46,5.09,2024-12-23
+1120,39,Correr al aire libre,88,9.03,2025-01-02
+1121,39,Caminadora,117,13.16,2024-12-14
+1122,39,Correr al aire libre,59,7.77,2025-01-07
+1123,39,Entrenamiento de resistencia,57,5.97,2024-12-04
+1124,39,Correr al aire libre,36,3.62,2024-11-28
+1125,39,Entrenamiento de resistencia,102,8.96,2024-12-19
+1126,39,Correr al aire libre,38,4.84,2024-12-19
+1127,39,Caminadora,80,6.57,2024-12-17
+1128,39,Entrenamiento de resistencia,119,10.42,2024-12-12
+1129,39,Entrenamiento de resistencia,107,15.69,2024-11-09
+1130,39,Caminadora,47,5.81,2024-11-17
+1131,39,Correr al aire libre,101,11.44,2024-12-15
+1132,39,Correr al aire libre,87,12.19,2024-12-20
+1133,39,Intervalos de velocidad,76,11.11,2024-11-21
+1134,39,Correr al aire libre,119,17.01,2024-12-21
+1135,39,Entrenamiento de resistencia,66,5.48,2024-12-24
+1136,39,Intervalos de velocidad,115,12.36,2024-11-11
+1137,39,Intervalos de velocidad,38,4.65,2025-01-04
+1138,39,Correr al aire libre,42,6.2,2024-11-14
+1139,39,Correr al aire libre,86,8.25,2024-11-25
+1140,39,Entrenamiento de resistencia,43,4.38,2024-12-12
+1141,39,Intervalos de velocidad,55,7.61,2024-12-10
+1142,39,Intervalos de velocidad,43,3.77,2024-11-19
+1143,39,Caminadora,101,9.49,2024-11-25
+1144,39,Correr al aire libre,119,11.37,2024-11-11
+1145,39,Entrenamiento de resistencia,80,11.68,2024-12-13
+1146,39,Intervalos de velocidad,92,8.15,2024-11-20
+1147,39,Intervalos de velocidad,30,4.33,2024-12-16
+1148,39,Caminadora,120,14.97,2024-12-24
+1149,39,Entrenamiento de resistencia,64,5.87,2024-12-25
+1150,39,Caminadora,92,13.51,2024-11-16
+1151,39,Caminadora,41,4.9,2024-12-27
+1152,39,Intervalos de velocidad,37,3.87,2024-12-28
+1153,39,Entrenamiento de resistencia,41,4.67,2024-12-13
+1154,40,Caminadora,53,7.03,2024-11-19
+1155,40,Entrenamiento de resistencia,42,4.9,2024-11-08
+1156,40,Intervalos de velocidad,43,5.32,2024-12-22
+1157,40,Entrenamiento de resistencia,94,10.93,2024-11-27
+1158,40,Caminadora,55,4.42,2025-01-06
+1159,40,Correr al aire libre,34,3.82,2024-11-27
+1160,40,Correr al aire libre,41,3.54,2024-12-07
+1161,40,Entrenamiento de resistencia,75,7.43,2024-11-10
+1162,40,Entrenamiento de resistencia,42,4.13,2024-11-28
+1163,40,Entrenamiento de resistencia,87,12.06,2024-11-19
+1164,40,Correr al aire libre,77,6.28,2024-12-06
+1165,40,Correr al aire libre,69,6.11,2025-01-04
+1166,40,Intervalos de velocidad,109,14.95,2024-11-18
+1167,40,Intervalos de velocidad,65,7.99,2024-12-28
+1168,40,Entrenamiento de resistencia,40,4.89,2024-12-09
+1169,40,Entrenamiento de resistencia,50,7.17,2024-12-14
+1170,40,Entrenamiento de resistencia,115,17.18,2025-01-06
+1171,40,Intervalos de velocidad,61,8.87,2024-12-30
+1172,40,Caminadora,94,13.89,2024-11-19
+1173,40,Entrenamiento de resistencia,47,4.95,2024-12-12
+1174,40,Correr al aire libre,83,12.06,2024-12-04
+1175,40,Entrenamiento de resistencia,90,12.41,2024-11-25
+1176,40,Caminadora,109,10.31,2024-12-19
+1177,40,Intervalos de velocidad,70,9.53,2025-01-01
+1178,40,Correr al aire libre,37,3.22,2024-11-11
+1179,41,Correr al aire libre,75,10.69,2024-12-16
+1180,41,Correr al aire libre,42,5.29,2024-11-28
+1181,41,Intervalos de velocidad,47,4.07,2024-11-15
+1182,41,Caminadora,35,2.97,2024-12-26
+1183,41,Caminadora,32,3.72,2024-11-17
+1184,41,Entrenamiento de resistencia,52,5.91,2024-11-08
+1185,41,Caminadora,37,5.06,2024-12-30
+1186,41,Intervalos de velocidad,111,15.51,2024-12-10
+1187,41,Caminadora,51,6.5,2024-12-16
+1188,41,Caminadora,118,11.18,2024-12-03
+1189,41,Caminadora,71,9.86,2024-12-04
+1190,41,Caminadora,37,3.87,2024-12-26
+1191,41,Correr al aire libre,38,4.31,2024-11-25
+1192,41,Intervalos de velocidad,116,15.89,2024-12-01
+1193,41,Intervalos de velocidad,37,4.15,2024-12-20
+1194,41,Intervalos de velocidad,41,4.3,2024-12-04
+1195,41,Caminadora,119,17.4,2024-12-25
+1196,41,Caminadora,84,9.82,2024-11-16
+1197,41,Intervalos de velocidad,66,7.22,2024-12-03
+1198,41,Entrenamiento de resistencia,104,10.13,2024-12-15
+1199,41,Intervalos de velocidad,70,7.18,2025-01-06
+1200,41,Correr al aire libre,84,8.08,2024-12-31
+1201,41,Intervalos de velocidad,88,12.65,2024-12-26
+1202,41,Intervalos de velocidad,101,13.97,2024-12-23
+1203,41,Correr al aire libre,39,3.48,2024-12-02
+1204,41,Correr al aire libre,86,8.72,2024-11-18
+1205,41,Caminadora,66,9.89,2024-12-02
+1206,42,Caminadora,120,10.98,2024-11-08
+1207,42,Correr al aire libre,84,10.33,2024-12-25
+1208,42,Entrenamiento de resistencia,85,11.13,2024-11-23
+1209,42,Correr al aire libre,44,4.79,2024-11-25
+1210,42,Entrenamiento de resistencia,68,6.08,2024-11-30
+1211,42,Caminadora,89,12.65,2024-12-22
+1212,42,Intervalos de velocidad,57,4.65,2024-12-05
+1213,42,Caminadora,39,5.38,2025-01-07
+1214,42,Entrenamiento de resistencia,52,6.95,2024-11-08
+1215,42,Intervalos de velocidad,81,11.72,2024-11-28
+1216,42,Correr al aire libre,78,11.16,2024-12-22
+1217,42,Intervalos de velocidad,32,2.74,2024-12-09
+1218,42,Correr al aire libre,119,13.02,2024-12-25
+1219,42,Intervalos de velocidad,58,6.51,2024-11-18
+1220,42,Intervalos de velocidad,84,8.7,2024-11-23
+1221,42,Caminadora,108,9.35,2024-12-06
+1222,42,Entrenamiento de resistencia,43,5.48,2024-11-28
+1223,42,Correr al aire libre,114,16.33,2024-12-22
+1224,42,Intervalos de velocidad,93,12.39,2024-12-09
+1225,42,Entrenamiento de resistencia,35,4.22,2024-12-27
+1226,42,Intervalos de velocidad,75,6.48,2024-12-31
+1227,42,Entrenamiento de resistencia,115,14.6,2024-12-23
+1228,42,Entrenamiento de resistencia,74,10.63,2025-01-05
+1229,42,Correr al aire libre,72,8.05,2024-12-11
+1230,42,Caminadora,91,13.58,2024-11-23
+1231,42,Correr al aire libre,72,9.19,2024-12-01
+1232,42,Correr al aire libre,75,10.58,2025-01-01
+1233,42,Correr al aire libre,68,7.88,2024-12-22
+1234,42,Correr al aire libre,91,9.29,2024-11-10
+1235,42,Intervalos de velocidad,57,8.38,2024-11-10
+1236,42,Correr al aire libre,60,5.21,2024-12-03
+1237,42,Correr al aire libre,107,12.21,2024-11-24
+1238,42,Correr al aire libre,120,16.64,2024-12-28
+1239,42,Correr al aire libre,46,4.56,2024-12-18
+1240,42,Correr al aire libre,97,13.88,2024-12-14
+1241,42,Intervalos de velocidad,90,7.9,2024-12-03
+1242,42,Caminadora,62,5.47,2024-11-26
+1243,42,Intervalos de velocidad,41,5.78,2024-11-18
+1244,42,Caminadora,89,11.69,2024-12-19
+1245,42,Caminadora,53,6.73,2024-11-18
+1246,43,Caminadora,81,7.02,2024-11-20
+1247,43,Intervalos de velocidad,96,12.89,2024-12-30
+1248,43,Intervalos de velocidad,39,5.04,2024-12-05
+1249,43,Correr al aire libre,34,3.37,2024-11-28
+1250,43,Entrenamiento de resistencia,114,12.17,2025-01-01
+1251,43,Entrenamiento de resistencia,57,5.32,2024-12-16
+1252,43,Entrenamiento de resistencia,44,5.81,2024-12-13
+1253,43,Intervalos de velocidad,97,12.78,2024-12-12
+1254,43,Caminadora,72,7.44,2024-11-14
+1255,43,Entrenamiento de resistencia,74,10.0,2024-12-15
+1256,43,Caminadora,112,9.61,2025-01-06
+1257,43,Caminadora,37,3.34,2024-11-24
+1258,43,Correr al aire libre,101,10.2,2024-12-06
+1259,43,Correr al aire libre,111,9.3,2025-01-04
+1260,43,Correr al aire libre,80,9.94,2024-11-29
+1261,43,Caminadora,72,8.09,2024-12-10
+1262,43,Entrenamiento de resistencia,39,5.08,2024-12-08
+1263,43,Entrenamiento de resistencia,90,11.67,2024-12-22
+1264,43,Caminadora,107,9.6,2024-11-26
+1265,43,Entrenamiento de resistencia,34,3.27,2024-12-26
+1266,43,Correr al aire libre,49,4.78,2024-12-10
+1267,43,Caminadora,69,6.53,2024-11-20
+1268,43,Intervalos de velocidad,103,8.27,2024-12-28
+1269,43,Intervalos de velocidad,107,10.91,2024-12-23
+1270,44,Intervalos de velocidad,111,14.28,2024-12-11
+1271,44,Correr al aire libre,38,5.02,2024-12-17
+1272,44,Caminadora,31,4.54,2024-12-05
+1273,44,Correr al aire libre,35,3.34,2024-12-31
+1274,44,Intervalos de velocidad,78,8.5,2024-11-23
+1275,44,Intervalos de velocidad,74,9.07,2024-12-17
+1276,44,Entrenamiento de resistencia,108,15.57,2024-12-29
+1277,44,Entrenamiento de resistencia,93,10.08,2024-12-26
+1278,44,Caminadora,38,3.58,2024-12-25
+1279,44,Entrenamiento de resistencia,93,8.69,2024-12-07
+1280,44,Caminadora,41,3.79,2024-11-10
+1281,44,Entrenamiento de resistencia,85,7.47,2024-11-28
+1282,44,Intervalos de velocidad,31,4.04,2024-12-06
+1283,44,Correr al aire libre,50,5.14,2024-12-08
+1284,44,Entrenamiento de resistencia,41,4.58,2024-11-14
+1285,44,Entrenamiento de resistencia,100,12.53,2024-12-18
+1286,44,Entrenamiento de resistencia,75,8.83,2024-11-28
+1287,44,Caminadora,81,8.0,2024-12-31
+1288,44,Correr al aire libre,105,10.65,2024-12-14
+1289,44,Caminadora,94,10.52,2024-11-30
+1290,44,Caminadora,103,9.52,2024-11-26
+1291,44,Entrenamiento de resistencia,82,10.45,2024-11-13
+1292,44,Intervalos de velocidad,116,12.88,2024-12-15
+1293,44,Caminadora,39,3.21,2024-11-17
+1294,44,Caminadora,106,11.43,2024-11-10
+1295,44,Correr al aire libre,73,10.87,2024-11-27
+1296,44,Caminadora,72,10.49,2024-12-22
+1297,44,Entrenamiento de resistencia,111,14.92,2024-12-13
+1298,44,Entrenamiento de resistencia,100,8.1,2024-12-18
+1299,44,Intervalos de velocidad,91,12.07,2024-12-16
+1300,44,Caminadora,93,10.29,2024-12-31
+1301,45,Caminadora,41,3.72,2024-12-30
+1302,45,Caminadora,87,11.3,2024-12-11
+1303,45,Correr al aire libre,91,7.73,2024-12-05
+1304,45,Correr al aire libre,66,7.2,2025-01-05
+1305,45,Entrenamiento de resistencia,55,6.25,2024-12-13
+1306,45,Intervalos de velocidad,73,7.59,2024-12-15
+1307,45,Intervalos de velocidad,97,10.24,2024-12-22
+1308,45,Intervalos de velocidad,46,5.78,2024-11-15
+1309,45,Entrenamiento de resistencia,33,2.8,2024-12-22
+1310,45,Entrenamiento de resistencia,52,6.94,2024-12-09
+1311,45,Intervalos de velocidad,62,7.01,2025-01-02
+1312,45,Entrenamiento de resistencia,73,8.5,2025-01-07
+1313,45,Correr al aire libre,44,4.9,2024-11-29
+1314,45,Caminadora,71,10.39,2024-12-24
+1315,45,Entrenamiento de resistencia,78,11.61,2024-12-22
+1316,45,Intervalos de velocidad,85,8.39,2024-12-12
+1317,45,Caminadora,57,4.84,2024-11-18
+1318,45,Caminadora,111,9.33,2024-12-13
+1319,45,Entrenamiento de resistencia,84,9.74,2024-12-06
+1320,45,Correr al aire libre,83,12.03,2024-12-19
+1321,46,Intervalos de velocidad,35,2.84,2024-12-08
+1322,46,Entrenamiento de resistencia,52,5.97,2024-11-25
+1323,46,Caminadora,82,10.39,2024-11-24
+1324,46,Caminadora,52,4.21,2024-12-03
+1325,46,Intervalos de velocidad,57,5.33,2024-12-04
+1326,46,Caminadora,45,6.4,2024-11-13
+1327,46,Caminadora,48,5.85,2024-11-17
+1328,46,Caminadora,34,3.83,2024-12-15
+1329,46,Intervalos de velocidad,103,14.63,2024-12-03
+1330,46,Entrenamiento de resistencia,82,8.45,2024-12-04
+1331,46,Correr al aire libre,79,7.55,2024-12-07
+1332,46,Intervalos de velocidad,95,13.54,2024-12-13
+1333,46,Intervalos de velocidad,69,6.61,2024-11-14
+1334,46,Caminadora,85,9.74,2024-12-27
+1335,46,Intervalos de velocidad,57,6.25,2024-11-28
+1336,46,Caminadora,90,8.77,2024-12-02
+1337,46,Caminadora,40,3.6,2024-12-15
+1338,46,Entrenamiento de resistencia,39,5.18,2024-11-21
+1339,46,Correr al aire libre,51,4.93,2024-12-14
+1340,46,Intervalos de velocidad,97,13.63,2024-11-13
+1341,46,Entrenamiento de resistencia,62,9.02,2024-12-13
+1342,46,Intervalos de velocidad,112,12.88,2024-11-09
+1343,46,Intervalos de velocidad,105,15.53,2025-01-03
+1344,46,Intervalos de velocidad,108,15.29,2024-12-08
+1345,46,Caminadora,38,3.15,2024-11-15
+1346,46,Caminadora,101,11.13,2024-12-06
+1347,46,Entrenamiento de resistencia,31,2.65,2024-12-19
+1348,46,Intervalos de velocidad,119,17.05,2024-11-13
+1349,46,Caminadora,65,7.59,2025-01-06
+1350,46,Correr al aire libre,77,9.9,2025-01-06
+1351,46,Entrenamiento de resistencia,104,12.5,2025-01-06
+1352,46,Intervalos de velocidad,68,5.89,2024-12-15
+1353,46,Intervalos de velocidad,42,4.35,2024-12-17
+1354,46,Correr al aire libre,99,10.07,2024-12-29
+1355,46,Caminadora,95,11.17,2024-11-24
+1356,46,Correr al aire libre,82,8.9,2024-12-28
+1357,47,Entrenamiento de resistencia,120,11.64,2025-01-02
+1358,47,Entrenamiento de resistencia,89,8.24,2024-12-15
+1359,47,Correr al aire libre,76,7.58,2024-11-30
+1360,47,Caminadora,75,6.65,2024-12-17
+1361,47,Intervalos de velocidad,45,5.74,2024-12-26
+1362,47,Caminadora,88,10.07,2024-12-24
+1363,47,Entrenamiento de resistencia,117,11.33,2024-11-21
+1364,47,Intervalos de velocidad,104,9.42,2024-12-12
+1365,47,Correr al aire libre,31,3.75,2025-01-06
+1366,47,Caminadora,57,8.1,2025-01-02
+1367,47,Correr al aire libre,117,17.14,2024-12-29
+1368,47,Intervalos de velocidad,39,4.39,2024-12-16
+1369,47,Entrenamiento de resistencia,102,10.61,2024-12-13
+1370,47,Intervalos de velocidad,35,3.19,2024-12-04
+1371,47,Caminadora,74,9.65,2025-01-04
+1372,47,Caminadora,62,7.09,2024-11-26
+1373,47,Correr al aire libre,105,12.6,2024-12-13
+1374,47,Intervalos de velocidad,54,6.18,2024-11-11
+1375,47,Correr al aire libre,87,7.47,2024-12-11
+1376,47,Caminadora,38,3.34,2024-11-21
+1377,47,Intervalos de velocidad,38,4.08,2024-12-04
+1378,47,Correr al aire libre,57,5.79,2024-12-25
+1379,47,Correr al aire libre,81,11.58,2024-12-03
+1380,47,Intervalos de velocidad,59,6.47,2024-11-28
+1381,47,Entrenamiento de resistencia,90,9.49,2024-11-26
+1382,47,Intervalos de velocidad,81,10.98,2024-12-28
+1383,47,Correr al aire libre,118,13.52,2024-12-06
+1384,48,Correr al aire libre,87,9.78,2024-11-12
+1385,48,Correr al aire libre,101,8.69,2024-12-02
+1386,48,Correr al aire libre,70,8.48,2024-11-15
+1387,48,Entrenamiento de resistencia,102,9.35,2024-12-30
+1388,48,Correr al aire libre,95,13.24,2025-01-06
+1389,48,Correr al aire libre,79,9.22,2024-11-12
+1390,48,Entrenamiento de resistencia,77,9.8,2024-12-27
+1391,48,Correr al aire libre,76,8.65,2024-12-28
+1392,48,Correr al aire libre,64,9.07,2024-12-01
+1393,48,Entrenamiento de resistencia,40,3.7,2024-11-08
+1394,48,Correr al aire libre,38,5.61,2025-01-06
+1395,48,Correr al aire libre,99,14.8,2024-12-12
+1396,48,Intervalos de velocidad,102,9.49,2024-11-29
+1397,48,Intervalos de velocidad,53,7.22,2024-12-05
+1398,48,Caminadora,66,6.35,2024-11-26
+1399,48,Entrenamiento de resistencia,41,4.68,2024-11-29
+1400,48,Correr al aire libre,41,5.58,2024-12-23
+1401,48,Entrenamiento de resistencia,39,5.26,2024-11-12
+1402,48,Entrenamiento de resistencia,83,10.14,2024-11-25
+1403,48,Intervalos de velocidad,120,11.18,2024-12-25
+1404,48,Intervalos de velocidad,112,12.14,2025-01-04
+1405,48,Intervalos de velocidad,91,12.94,2024-12-15
+1406,48,Caminadora,32,3.52,2024-12-26
+1407,48,Intervalos de velocidad,74,7.6,2025-01-06
+1408,48,Entrenamiento de resistencia,65,5.81,2024-11-18
+1409,48,Correr al aire libre,79,8.46,2024-12-09
+1410,48,Intervalos de velocidad,41,4.57,2024-11-15
+1411,48,Correr al aire libre,61,5.22,2024-12-09
+1412,48,Caminadora,42,5.92,2024-12-12
+1413,48,Correr al aire libre,93,7.74,2024-12-31
+1414,48,Caminadora,98,12.62,2024-12-21
+1415,48,Caminadora,116,13.16,2024-12-19
+1416,48,Intervalos de velocidad,48,4.56,2024-12-28
+1417,48,Caminadora,94,12.31,2024-11-08
+1418,48,Entrenamiento de resistencia,67,5.36,2024-11-23
+1419,48,Caminadora,65,9.51,2024-12-24
+1420,48,Entrenamiento de resistencia,115,11.57,2025-01-01
+1421,49,Entrenamiento de resistencia,47,5.85,2025-01-06
+1422,49,Correr al aire libre,107,14.5,2024-11-27
+1423,49,Correr al aire libre,97,10.73,2024-12-22
+1424,49,Caminadora,77,8.43,2024-12-23
+1425,49,Correr al aire libre,78,6.66,2024-11-10
+1426,49,Correr al aire libre,106,9.14,2024-12-24
+1427,49,Caminadora,42,3.47,2025-01-04
+1428,49,Caminadora,36,5.07,2024-11-24
+1429,49,Intervalos de velocidad,44,5.35,2024-11-30
+1430,49,Intervalos de velocidad,101,12.46,2025-01-04
+1431,49,Entrenamiento de resistencia,35,4.36,2024-12-21
+1432,49,Correr al aire libre,75,7.41,2025-01-03
+1433,49,Caminadora,69,7.02,2024-12-12
+1434,49,Intervalos de velocidad,76,8.22,2024-12-26
+1435,49,Caminadora,102,10.81,2024-12-26
+1436,49,Entrenamiento de resistencia,100,11.48,2025-01-04
+1437,49,Caminadora,91,11.25,2024-12-26
+1438,49,Correr al aire libre,50,4.7,2025-01-07
+1439,49,Intervalos de velocidad,81,7.55,2024-12-19
+1440,49,Entrenamiento de resistencia,39,3.22,2024-11-17
+1441,49,Intervalos de velocidad,111,9.6,2024-11-24
+1442,49,Caminadora,84,6.76,2024-12-20
+1443,49,Caminadora,78,9.4,2024-11-10
+1444,49,Intervalos de velocidad,82,8.86,2024-12-25
+1445,49,Entrenamiento de resistencia,60,8.96,2025-01-06
+1446,49,Correr al aire libre,114,10.17,2024-11-25
+1447,49,Intervalos de velocidad,63,7.46,2024-12-12
+1448,49,Caminadora,91,10.44,2024-11-30
+1449,49,Entrenamiento de resistencia,54,8.1,2024-12-04
+1450,49,Intervalos de velocidad,87,10.67,2025-01-02
+1451,49,Correr al aire libre,33,4.65,2024-11-21
+1452,49,Caminadora,36,5.07,2024-11-18
+1453,49,Caminadora,83,8.8,2024-12-05
+1454,49,Caminadora,117,10.33,2024-12-11
+1455,49,Intervalos de velocidad,63,7.16,2024-11-15
+1456,49,Correr al aire libre,86,8.19,2024-11-21
+1457,49,Correr al aire libre,44,3.56,2024-11-19
+1458,49,Correr al aire libre,58,6.16,2024-12-13
+1459,49,Caminadora,83,7.99,2024-12-06
+1460,49,Intervalos de velocidad,75,9.84,2024-11-13
+1461,50,Entrenamiento de resistencia,57,7.99,2024-11-23
+1462,50,Intervalos de velocidad,87,10.69,2024-11-24
+1463,50,Intervalos de velocidad,76,7.41,2024-12-27
+1464,50,Entrenamiento de resistencia,96,9.22,2024-11-22
+1465,50,Caminadora,95,8.54,2024-11-25
+1466,50,Caminadora,36,4.39,2024-12-11
+1467,50,Correr al aire libre,105,14.1,2024-12-10
+1468,50,Correr al aire libre,49,5.16,2024-11-13
+1469,50,Caminadora,62,6.19,2024-12-03
+1470,50,Entrenamiento de resistencia,111,9.13,2024-12-25
+1471,50,Entrenamiento de resistencia,47,6.89,2024-12-30
+1472,50,Caminadora,62,5.85,2025-01-04
+1473,50,Intervalos de velocidad,47,4.57,2024-11-08
+1474,50,Correr al aire libre,56,6.23,2024-12-03
+1475,50,Caminadora,82,11.98,2024-12-12
+1476,50,Caminadora,104,14.48,2024-12-04
+1477,50,Entrenamiento de resistencia,92,12.19,2024-12-20
+1478,50,Caminadora,58,6.9,2024-12-19
+1479,50,Correr al aire libre,43,3.54,2024-11-22
+1480,50,Intervalos de velocidad,35,3.55,2024-11-21
+1481,50,Caminadora,102,12.62,2024-11-13
+1482,50,Entrenamiento de resistencia,30,3.15,2024-11-14
+1483,50,Caminadora,40,5.44,2024-11-10
+1484,50,Entrenamiento de resistencia,50,5.94,2024-11-13
+1485,50,Entrenamiento de resistencia,107,11.85,2024-11-09
+1486,50,Correr al aire libre,61,8.32,2024-11-25
+1487,50,Caminadora,42,4.23,2025-01-06
+1488,50,Entrenamiento de resistencia,91,9.25,2025-01-02
+1489,50,Correr al aire libre,76,8.4,2024-12-27
+1490,50,Entrenamiento de resistencia,104,15.08,2024-11-10
+1491,50,Caminadora,63,7.96,2024-12-21
+1492,50,Intervalos de velocidad,54,5.41,2024-12-30
+1493,50,Entrenamiento de resistencia,101,11.08,2025-01-02

@@ -1,0 +1,55 @@
+name: Data Pipeline Automation
+
+on:
+  push:
+    branches: [ ejercicios ]
+  schedule:
+    - cron: '0 0 * * *' # Ejecuta el workflow diariamente a medianoche UTC
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Cache pip
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Data Collection Script
+      env:
+        API_KEY: ${{ secrets.API_KEY }}
+      run: |
+        python ./Población_Artificial/data_collection.py
+
+    - name: Run Feature Generation Script
+      run: |
+        python ./Extracción_de_Features/feature_generation.py
+
+    - name: Run Model Training Script
+      run: |
+        python ./Generación_Modelo/model_training.py
+
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Automated update: data and model retrained'
+        file_pattern: |
+          data/**
+          models/**
