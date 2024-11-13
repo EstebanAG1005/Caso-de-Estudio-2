@@ -7,7 +7,7 @@ on:
     - cron: '0 0 * * *' # Ejecuta el workflow diariamente a medianoche UTC
 
 jobs:
-  build-and-run:
+  build-and-save-image:
     runs-on: ubuntu-latest
 
     steps:
@@ -45,11 +45,25 @@ jobs:
     - name: Run Model Training Script
       run: |
         python ./Generación_Modelo/model_training.py
+      # Se asume que el script guarda el modelo en una ubicación como "models/model.pkl"
 
-    - name: Commit and Push Changes
-      uses: stefanzweifel/git-auto-commit-action@v4
+    - name: Save Model Artifact
+      uses: actions/upload-artifact@v3
       with:
-        commit_message: 'Automated update: data and model retrained'
-        file_pattern: |
-          data/**
-          models/**
+        name: model-file
+        path: Contenedor/model.pkl # Cambia el path según donde se guarde el modelo en tu repositorio
+
+    - name: Build Docker Image
+      run: |
+        docker build -t caso_estudio_2 .
+
+    - name: Save Docker Image as TAR
+      run: |
+        docker save caso_estudio_2 -o caso_estudio_2.tar
+      # Guarda la imagen como un archivo .tar
+
+    - name: Upload Docker Image Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: docker-image
+        path: caso_estudio_2.tar
